@@ -361,7 +361,7 @@ class ReportAgent:
                 }
             )
         lines.extend(self._table(rows, ["alloy", "platform", "facility", "status", "evidence", "variables", "citation", "gaps"]))
-        alignments = [record.theory_alignment for record in handoff.records if record.theory_alignment]
+        alignments = list(dict.fromkeys(record.theory_alignment for record in handoff.records if record.theory_alignment))
         if alignments:
             lines.extend(["### Theory Alignment", ""])
             lines.extend(f"- {alignment}" for alignment in alignments)
@@ -376,15 +376,32 @@ class ReportAgent:
         return lines
 
     def _domain_overview(self, handoff: DomainHandoff) -> str:
-        summaries = [record.review_summary for record in handoff.records if record.review_summary]
-        if not summaries:
+        generated = [record for record in handoff.records if "pdf_generated_record" in record.gap_flags]
+        curated_summaries = [
+            record.review_summary
+            for record in handoff.records
+            if record.review_summary and "pdf_generated_record" not in record.gap_flags
+        ]
+        parts: list[str] = []
+        if generated:
+            platforms = sorted({record.platform for record in generated if record.platform})
+            alloys = sorted({record.alloy for record in generated if record.alloy})
+            parts.append(
+                f"The local ReferencePapers ingest adds {len(generated)} PDF-derived record(s) to this domain"
+                f"{' across ' + ', '.join(platforms[:5]) if platforms else ''}"
+                f"{' and material systems including ' + ', '.join(alloys[:5]) if alloys else ''}."
+            )
+        parts.extend(curated_summaries[:3])
+        if not parts:
             return "No narrative synthesis has been ingested yet for this domain."
-        return " ".join(summaries)
+        return " ".join(parts)
 
     def _domain_findings(self, handoff: DomainHandoff) -> list[str]:
         findings: list[str] = []
         seen: set[str] = set()
         for record in handoff.records:
+            if "pdf_generated_record" in record.gap_flags:
+                continue
             citation = record.citation.doi or record.citation.reference or "source"
             for finding in record.key_findings:
                 line = f"{finding} ({citation})"

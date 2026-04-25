@@ -17,24 +17,10 @@
 
 Flemings alignment: Processing routes, Ch.1 heat and solute conservation.
 
-This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using Drop tube / drop shaft, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting Ti-6Al-4V using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting Al-Si using ISS, Materials Science Laboratory. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using SJ-10. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting Co-Cr-Mo using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. ISS-EML is the central processing route for containerless metallic-alloy rapid solidification in the current corpus. The review frames space levitation as a benchmark environment for alloy thermodynamics, nucleation and growth, heat and mass transfer, interface dynamics, microstructure evolution, and defect formation. The Al-Si and Al-Cu comparison gives the wiki a recent metallic-alloy benchmark in which the same study contrasts gravity and microgravity directional solidification.
+The local ReferencePapers ingest adds 15 PDF-derived record(s) to this domain across Drop tube / drop shaft, ISS, SJ-10 and material systems including Al-Si, Co-Cr-Mo, Ti-6Al-4V. ISS-EML is the central processing route for containerless metallic-alloy rapid solidification in the current corpus. The review frames space levitation as a benchmark environment for alloy thermodynamics, nucleation and growth, heat and mass transfer, interface dynamics, microstructure evolution, and defect formation. The Al-Si and Al-Cu comparison gives the wiki a recent metallic-alloy benchmark in which the same study contrasts gravity and microgravity directional solidification.
 
 ### Key Findings
 
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS. Local PDF extraction from ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf.)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (10.1063/5.0064486)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION. Local PDF extraction from ReferencePapers/DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION.pdf.)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (10.1038/s41526-023-00310-2)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (10.1038/s41597-025-06428-0)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (10.1007/978-981-13-1340-0)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (10.1038/s41526-023-00326-8)
-- The paper helps map alloy systems, platforms, and processing routes for Ti-6Al-4V. (10.1002/adem.202000169)
-- The paper helps map alloy systems, platforms, and processing routes for Al-Si. (10.1016/j.actamat.2012.08.015)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (Solidification of Containerless Undercooled Melts - 2012 - Herlach. Local PDF extraction from ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf.)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (10.11728/cjss2018.05.836)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (Space Materials Science in China I. Experiment Studies under Microgravity. Local PDF extraction from ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf.)
-- The paper helps map alloy systems, platforms, and processing routes for the material system. (Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity. Local PDF extraction from ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf.)
-- The paper helps map alloy systems, platforms, and processing routes for Co-Cr-Mo. (10.1016/j.tca.2021.179119)
 - Containerless ISS-EML experiments decouple crucible interaction from melt processing and support controlled-convection studies. (10.1038/s41526-023-00310-2)
 - The rapid-solidification program explicitly links space experiments to model validation for industrial casting, atomization, welding, and additive manufacturing. (10.1038/s41526-023-00310-2)
 - Dendrite arm spacing, eutectic content, grain size, and compositional distribution differ between gravity and microgravity. (10.1038/s41526-024-00454-9)
@@ -65,20 +51,6 @@ The table below lists traceable records currently ingested for this domain. The 
 ### Theory Alignment
 
 - PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
-- PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.
 - Maps to Flemings heat/solute conservation and growth-kinetics chapters because ISS-EML is used to isolate thermal, solutal, and flow terms that are otherwise coupled by gravity.
 - Directly supports Flemings-style coupling between solute redistribution, density gradients, thermosolutal convection, and dendritic morphology.
 
@@ -105,22 +77,10 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
 
-This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting Al-Cu; Al-Si using Drop tube / drop shaft. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting Al-Cu using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using Ground-based microgravity analogue. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting Al-Cu using MASER sounding rocket, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. For flow and macrosegregation, this paper is important because it treats gravity effects as solute-dependent rather than as a simple on/off convection switch.
+The local ReferencePapers ingest adds 12 PDF-derived record(s) to this domain across Drop tube / drop shaft, Ground-based microgravity analogue, ISS, MASER sounding rocket and material systems including Al-Cu, Al-Cu; Al-Si. For flow and macrosegregation, this paper is important because it treats gravity effects as solute-dependent rather than as a simple on/off convection switch.
 
 ### Key Findings
 
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (10.1140/epje/s10189-021-00102-0)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in Al-Cu; Al-Si. (10.1038/s41526-024-00454-9)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (Conservation of mass and momentum for the flow of interdendritic liquid during solidification. Local PDF extraction from ReferencePapers/Conservation of mass and momentum for the flow of interdendritic liquid during solidification_Ganesan.pdf.)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (10.1007/s11837-017-2395-6)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in Al-Cu. (Directional solidification microstructures in diffusive and convective regimes. Local PDF extraction from ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf.)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (10.1016/j.jcrysgro.2005.04.061)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (Effect of weak convection on lamellar spacing of eutectics. Local PDF extraction from ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf.)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984).. Local PDF extraction from ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf.)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in Al-Cu. (10.1016/j.actamat.2021.117401)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (Interdendritic fluid flow and macrosegregation; influence of gravity Mehrabian. Local PDF extraction from ReferencePapers/Interdendritic fluid flow and macrosegregation; influence of gravity  Mehrabian.pdf.)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (Natural convection in directional dendritic solidification of metallic alloys Beckermann. Local PDF extraction from ReferencePapers/Natural convection in directional dendritic solidification of metallic alloys Beckermann.pdf.)
-- The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system. (The Role of Gravity on Macrosegregation in Alloys. Local PDF extraction from ReferencePapers/The Role of Gravity on Macrosegregation in Alloys.pdf.)
 - Thermosolutal convection arises from temperature and concentration gradients in the melt under ground gravity. (10.1038/s41526-024-00454-9)
 - Gravity effects differed between Al-Si and Al-Cu because Si and Cu have different density and redistribution behavior in aluminum. (10.1038/s41526-024-00454-9)
 
@@ -145,17 +105,6 @@ The table below lists traceable records currently ingested for this domain. The 
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
-- PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
 - Supports Flemings Ch.7 macrosegregation framing: convection changes solute transport, but the direction of the effect depends on alloy thermodynamics and density contrast.
 
 ### Citations
@@ -178,27 +127,10 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
 
-This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Si using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Cu using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using Ground-based microgravity analogue. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, Transparent Alloys. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Cu using MASER sounding rocket, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Ni using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Si using ISS, Materials Science Laboratory. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, XRMON-GF. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. The Glicksman microgravity dendrite experiment remains a foundational benchmark for diffusion-controlled dendritic growth because it measured tip velocity without normal buoyancy-driven convection. This paper converts ISS dendrite observations into a validation case for numerical models, making it useful for the wiki's benchmark and model-validation thread. The ISS CETSOL Al-Cu experiments are direct metallic benchmarks for columnar and equiaxed dendritic growth under diffusive conditions.
+The local ReferencePapers ingest adds 18 PDF-derived record(s) to this domain across Ground-based microgravity analogue, ISS, MASER sounding rocket, Space Shuttle and material systems including Al-Cu, Al-Ni, Al-Si, Succinonitrile model alloy. The Glicksman microgravity dendrite experiment remains a foundational benchmark for diffusion-controlled dendritic growth because it measured tip velocity without normal buoyancy-driven convection. This paper converts ISS dendrite observations into a validation case for numerical models, making it useful for the wiki's benchmark and model-validation thread. The ISS CETSOL Al-Cu experiments are direct metallic benchmarks for columnar and equiaxed dendritic growth under diffusive conditions.
 
 ### Key Findings
 
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (10.1007/s11661-022-06909-6)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (10.1016/j.actamat.2025.120954)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Si. (10.1016/j.jcrysgro.2019.02.050)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy. (Dendritic Growth tip velocities and radii of curvature in microgravity. Local PDF extraction from ReferencePapers/Dendritic Growth tip velocities and radii of curvature in microgravity.pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Cu. (Directional solidification microstructures in diffusive and convective regimes. Local PDF extraction from ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (10.1016/j.jcrysgro.2005.04.061)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984).. Local PDF extraction from ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (10.1016/j.crme.2016.10.008)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (10.1002/adma.202313162)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy. (ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS. Local PDF extraction from ReferencePapers/ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS.pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Cu. (10.1016/j.actamat.2021.117401)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (10.1038/s41526-023-00326-8)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Ni. (Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity. Local PDF extraction from ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Si. (10.1016/j.actamat.2012.08.015)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy. (Space flight data from the Isothermal Dendritic Growth Experiment. Local PDF extraction from ReferencePapers/Space flight data from the Isothermal Dendritic Growth Experiment .pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy. (The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile. Local PDF extraction from ReferencePapers/The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile.pdf.)
-- The paper is relevant to dendritic/cellular morphology or CET behavior in the material system. (X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission. Local PDF extraction from ReferencePapers/X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission_REINHART.pdf.)
 - Microgravity dendrite velocity data agreed with Ivantsov-type diffusion analysis over the reported undercooling range. (10.1103/PhysRevLett.73.573)
 - Ground convection can perturb dendrite kinetics even at modest undercooling. (10.1103/PhysRevLett.73.573)
 - ISS microgravity remelting and directional solidification produced constrained diffusive dendritic growth. (10.1016/j.actaastro.2020.05.059)
@@ -235,23 +167,6 @@ The table below lists traceable records currently ingested for this domain. The 
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
-- PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
 - Anchors Flemings growth-kinetics discussion in the Ivantsov diffusion solution and dendrite tip selection.
 - Connects Flemings dendrite-growth theory to modern phase-field and cellular-automata validation.
 - Feeds the Flemings CET discussion by linking G, V, cooling rate, and grain structure in a metallic alloy.
@@ -283,22 +198,10 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
 
-This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS, Transparent Alloys. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Succinonitrile model alloy using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Cu using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Zr-V using China Space Station, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In; Succinonitrile model alloy using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi-Sn; Al-Bi; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi; Al-Pb. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Zr-V using China Space Station. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. The Tiangong 2 Al-Bi-Sn study is a modern immiscible-alloy case where microgravity was used to suppress buoyancy-driven phase separation and produce a more dispersed structure. The Al-Pb drop-shaft study provides a useful quantitative benchmark because the reported microgravity sample had a lower cooling rate but a more homogeneous lead-particle distribution than the normal-gravity sample.
+The local ReferencePapers ingest adds 13 PDF-derived record(s) to this domain across China Space Station, ISS, Tiangong and material systems including Al-Bi-Sn; Al-Bi; Al-In, Al-Bi-Sn; Al-Bi; Al-Pb; Al-In, Al-Bi-Sn; Al-Bi; Al-Pb; Al-In; Succinonitrile model alloy, Al-Bi; Al-Pb, Al-Cu. The Tiangong 2 Al-Bi-Sn study is a modern immiscible-alloy case where microgravity was used to suppress buoyancy-driven phase separation and produce a more dispersed structure. The Al-Pb drop-shaft study provides a useful quantitative benchmark because the reported microgravity sample had a lower cooling rate but a more homogeneous lead-particle distribution than the normal-gravity sample.
 
 ### Key Findings
 
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi-Sn; Al-Bi; Al-Pb; Al-In. (10.1038/s41526-019-0086-z)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system. (Effect of weak convection on lamellar spacing of eutectics. Local PDF extraction from ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf.)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system. (10.1016/j.crme.2016.10.008)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system. (Immiscible alloys under microgravity conditions. Local PDF extraction from ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf.)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Succinonitrile model alloy. (10.5802/crmeca.142)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system. (10.1038/s41526-023-00326-8)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Cu. (10.1016/j.scriptamat.2022.114683)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Zr-V. (10.1063/5.0245520)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi-Sn; Al-Bi; Al-Pb; Al-In; Succinonitrile model alloy. (10.1360/SSPMA-2019-0176)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi-Sn; Al-Bi; Al-In. (10.1016/j.scriptamat.2018.12.010)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi; Al-Pb. (10.1007/s40195-016-0523-x)
-- The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Zr-V. (10.1063/5.0203971)
 - Directional solidification under microgravity produced a well-dispersed microstructure. (10.1038/s41526-019-0086-z)
 - The reported sample matrix showed equiaxed morphology and no visible gas cavity or pinhole. (10.1038/s41526-019-0086-z)
 - The normal-gravity sample showed sedimentation of large lead-rich particles at the sample bottom. (10.1016/j.matlet.2004.03.027)
@@ -327,18 +230,6 @@ The table below lists traceable records currently ingested for this domain. The 
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
-- PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.
 - Aligns with Flemings multiphase-solidification chapters by isolating liquid-liquid decomposition, droplet migration, and final phase morphology from sedimentation.
 - Supports the distinction between thermal history and density-driven phase segregation in monotectic alloys.
 
@@ -363,21 +254,10 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.9 nucleation, Ch.9 interface kinetics.
 
-This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting Al-Ni. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting Al-In using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. The Al-Ni ISS-EML work is a focused interface-kinetics case where recalescence velocity does not monotonically increase with undercooling over part of the accessible range. For nucleation and undercooling, the rapid-solidification review ties ISS-EML experiments to phase selection, metastable phases, and convection-controlled nucleation.
+The local ReferencePapers ingest adds 11 PDF-derived record(s) to this domain across ISS, Tiangong and material systems including Al-Bi-Sn; Al-Bi; Al-Pb; Al-In, Al-In, Al-Ni. The Al-Ni ISS-EML work is a focused interface-kinetics case where recalescence velocity does not monotonically increase with undercooling over part of the accessible range. For nucleation and undercooling, the rapid-solidification review ties ISS-EML experiments to phase selection, metastable phases, and convection-controlled nucleation.
 
 ### Key Findings
 
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS. Local PDF extraction from ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf.)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in Al-Ni. (10.1016/j.jallcom.2010.11.186)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in Al-Bi-Sn; Al-Bi; Al-Pb; Al-In. (10.1038/s41526-019-0086-z)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (10.1002/adma.202313162)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (Immiscible alloys under microgravity conditions. Local PDF extraction from ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf.)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (10.1002/anie.202400312)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (10.1016/j.msea.2003.10.308)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (Solidification of Containerless Undercooled Melts - 2012 - Herlach. Local PDF extraction from ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf.)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (10.1007/s11837-017-2402-y)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system. (Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity. Local PDF extraction from ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf.)
-- The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in Al-In. (10.1002/adfm.202415364)
 - Al-Ni alloys processed on the ISS showed anomalous velocity-undercooling behavior. (10.1007/s12217-021-09911-6)
 - The paper models recalescence velocity trends measured in electromagnetically levitated samples. (10.1007/s12217-021-09911-6)
 - ISS-EML supports studies of the influence of convection on nucleation and metastable phase selection. (10.1038/s41526-023-00310-2)
@@ -404,16 +284,6 @@ The table below lists traceable records currently ingested for this domain. The 
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.
 - Extends Flemings Ch.9 by showing that interface kinetics in undercooled alloy melts can require solute- and phase-selection-aware models.
 - Supports classical and coupled-flux nucleation discussions where undercooling, viscosity, interfacial energy, and stirring enter the nucleation rate.
 
@@ -437,19 +307,10 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
 
-This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using MEPHISTO. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting Ti-6Al-4V using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting Al-Bi; Al-Pb. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting Co-Cr-Mo using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. The thermophysical-property review supplies the property schema for liquid metallic melts: surface tension, viscosity, density, specific heat, thermal conductivity, emissivity, and electrical resistivity. This early EML paper establishes why undercooled metallic-melt properties were targeted for microgravity measurement before the ISS-EML era.
+The local ReferencePapers ingest adds 9 PDF-derived record(s) to this domain across ISS and material systems including Al-Bi; Al-Pb, Co-Cr-Mo, Ti-6Al-4V. The thermophysical-property review supplies the property schema for liquid metallic melts: surface tension, viscosity, density, specific heat, thermal conductivity, emissivity, and electrical resistivity. This early EML paper establishes why undercooled metallic-melt properties were targeted for microgravity measurement before the ISS-EML era.
 
 ### Key Findings
 
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions. Local PDF extraction from ReferencePapers/A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions_Tim.pdf.)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity. Local PDF extraction from ReferencePapers/Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity.pdf.)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (10.1002/adem.202001223)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (10.1038/s41597-025-06428-0)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (10.1002/adem.202000169)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (10.1007/s40195-016-0523-x)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity. Local PDF extraction from ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf.)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (10.1063/1.1357942)
-- The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling. (10.1016/j.tca.2021.179119)
 - Microgravity reduces levitation-force-driven flow and improves droplet sphericity, which improves thermophysical-property measurement precision. (10.1038/s41526-023-00281-4)
 - ISS duration enables equilibrium measurements such as AC calorimetry that are difficult in short-duration reduced-gravity platforms. (10.1038/s41526-023-00281-4)
 - The proposed method obtains surface tension and viscosity from oscillation frequency and damping of levitated molten samples. (10.1016/0273-1177(91)90294-T)
@@ -476,14 +337,6 @@ QA flags: Only 11 traceable non-example sources found; minimum is 12.
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
-- PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.
 - Supplies the material-property inputs needed for Flemings heat-flow, convection, stability, and dendrite-spacing models.
 - Connects thermophysical measurement to nucleation and undercooled-melt solidification models.
 
@@ -505,21 +358,10 @@ QA flags: Only 11 traceable non-example sources found; minimum is 12.
 
 Flemings alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
 
-This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Drop tube / drop shaft, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Ground-based microgravity analogue, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting Al-Cu using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Ground-based microgravity analogue. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using ISS, Transparent Alloys. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting GaInSb using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using SJ-10. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. Detached Bridgman growth is included as a distinct domain because microgravity experiments revealed that crucible contact can be interrupted by a stable gap, reducing mechanical stress during cooling. The GeSi detached-growth paper provides a semiconductor crystal case where applied pressure differential is used to promote detached Bridgman growth.
+The local ReferencePapers ingest adds 11 PDF-derived record(s) to this domain across Drop tube / drop shaft, Ground-based microgravity analogue, ISS, SJ-10 and material systems including Al-Cu, GaInSb. Detached Bridgman growth is included as a distinct domain because microgravity experiments revealed that crucible contact can be interrupted by a stable gap, reducing mechanical stress during cooling. The GeSi detached-growth paper provides a semiconductor crystal case where applied pressure differential is used to promote detached Bridgman growth.
 
 ### Key Findings
 
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (10.1063/5.0064486)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (Crucible de-wetting during bridgman growth of semiconductors in microgravity. Local PDF extraction from ReferencePapers/Crucible de-wetting during bridgman growth of semiconductors in microgravity.pdf.)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist. Local PDF extraction from ReferencePapers/Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist.pdf.)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (Detached Solidification in Microgravity A. Local PDF extraction from ReferencePapers/Detached_Solidification_in_Microgravity_A_Review.pdf.)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (Directional solidification microstructures in diffusive and convective regimes. Local PDF extraction from ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf.)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (10.1016/j.jcrysgro.2005.04.061)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (10.1016/j.crme.2016.10.008)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (10.1007/978-981-13-1340-0)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (10.1016/j.jcrysgro.2004.10.084)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (10.11728/cjss2018.05.836)
-- The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics. (Space Materials Science in China I. Experiment Studies under Microgravity. Local PDF extraction from ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf.)
 - Detached growth separates the crystal from the crucible wall by a gap on the order of 10-100 um. (10.1557/mrs2009.74)
 - The method is relevant to lowering thermal and mechanical stress in semiconductor crystal growth. (10.1557/mrs2009.74)
 - Pressure-difference control was used to reproducibly grow mostly detached GeSi crystals. (10.1016/S0022-0248(01)02199-6)
@@ -546,16 +388,6 @@ The table below lists traceable records currently ingested for this domain. The 
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
-- PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.
 - Links Flemings plane-front and nucleation/interface concepts to capillarity, wetting, meniscus stability, and defect generation.
 - Supports the meniscus and pressure-balance part of detached Bridgman theory.
 
@@ -579,16 +411,10 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.10 defects, Additive manufacturing bridge.
 
-This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting Al-Ni using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting the studied material system using SJ-10. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting Al-In using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. The Al-Bi-Sn paper contributes to the porosity domain because it explicitly reports the absence of visible gas cavities or pinholes in the returned microgravity sample. This AM bridge record supplies the pore-formation mechanism side of the D8 comparison: keyhole collapse traps gas during rapid melt-pool solidification. This paper gives quantitative bridge values for AM: LPBF operates at high laser power density, scan speeds of order 0.05-4 m/s, and cooling rates around 10^4-10^6 K/s.
+The local ReferencePapers ingest adds 6 PDF-derived record(s) to this domain across ISS, SJ-10, Tiangong and material systems including Al-Bi-Sn; Al-Bi; Al-Pb; Al-In, Al-In, Al-Ni. The Al-Bi-Sn paper contributes to the porosity domain because it explicitly reports the absence of visible gas cavities or pinholes in the returned microgravity sample. This AM bridge record supplies the pore-formation mechanism side of the D8 comparison: keyhole collapse traps gas during rapid melt-pool solidification. This paper gives quantitative bridge values for AM: LPBF operates at high laser power density, scan speeds of order 0.05-4 m/s, and cooling rates around 10^4-10^6 K/s.
 
 ### Key Findings
 
-- The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity. (10.1038/s41526-019-0086-z)
-- The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity. (10.1002/adma.202313162)
-- The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity. (10.1007/978-981-13-1340-0)
-- The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity. (Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity. Local PDF extraction from ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf.)
-- The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity. (Space Materials Science in China I. Experiment Studies under Microgravity. Local PDF extraction from ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf.)
-- The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity. (10.1002/adfm.202415364)
 - No visible gas cavity or pinhole was reported in the Tiangong 2 microgravity sample. (10.1038/s41526-019-0086-z)
 - The result separates droplet/phase-dispersion behavior from classic gas-porosity measurements. (10.1038/s41526-019-0086-z)
 - In situ X-ray imaging showed pores forming when deep keyhole depressions rapidly form and collapse. (10.1038/s41467-019-10009-2)
@@ -615,11 +441,6 @@ QA flags: Only 8 traceable non-example sources found; minimum is 20.
 ### Theory Alignment
 
 - PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.
-- PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.
-- PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.
-- PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.
-- PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.
-- PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.
 - Relevant to Flemings defect discussions, but the paper is stronger for immiscible phase morphology than for quantitative gas-pore kinetics.
 - Provides a high-cooling-rate defect analogue for Flemings Ch.10, while gravity is secondary to recoil pressure, capillarity, vaporization, and rapid solidification.
 - Useful for comparing gravity-suppressed casting flows with rapid-solidification AM where vapor recoil, surface tension, and short timescale dominate.
@@ -640,12 +461,10 @@ QA flags: Only 8 traceable non-example sources found; minimum is 20.
 
 Flemings alignment: Ch.10 properties and defects.
 
-This local PDF contributes to Processing-Structure-Property & Mechanical Data by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. This local PDF contributes to Processing-Structure-Property & Mechanical Data by documenting the studied material system using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures. The current seed corpus confirms a persistent processing-structure-property gap: microgravity work is rich in process physics and microstructure, but mechanical property datasets on returned microgravity-solidified specimens are sparse in the seeded sources.
+The local ReferencePapers ingest adds 2 PDF-derived record(s) to this domain across ISS, Space Shuttle. The current seed corpus confirms a persistent processing-structure-property gap: microgravity work is rich in process physics and microstructure, but mechanical property datasets on returned microgravity-solidified specimens are sparse in the seeded sources.
 
 ### Key Findings
 
-- The paper may support processing-structure-property linkage or mechanical-property gap analysis. (10.1002/chin.201110223)
-- The paper may support processing-structure-property linkage or mechanical-property gap analysis. (10.1016/j.actamat.2017.09.033)
 - ISS-EML review connects process control and microstructure to downstream mechanical-property optimization, but it is not itself a mechanical test dataset. (10.1038/s41526-023-00310-2)
 - The highest-priority D9 task is to pair returned-specimen microstructure with tensile, hardness, fatigue, or creep data. (10.1038/s41526-023-00310-2)
 
@@ -661,7 +480,6 @@ QA flags: Only 3 traceable non-example sources found; minimum is 12.
 
 ### Theory Alignment
 
-- PDF-derived alignment: Ch.10 properties and defects.
 - PDF-derived alignment: Ch.10 properties and defects.
 - Maps to Flemings Ch.10 by identifying the missing final link from process variables and defects to mechanical response.
 
