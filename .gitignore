@@ -4,6 +4,6 @@ __pycache__/
 .DS_Store
 output/*
 !output/.gitkeep
+!output/*.md
 data/pdfs/*
 !data/pdfs/.gitkeep
-

@@ -1,0 +1,580 @@
+[
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Electromagnetic levitation containerless processing of metallic materials in microgravity: rapid solidification",
+      "authors": ["Matson, D. M.", "Battezzati, L.", "Galenko, P. K.", "Gandin, Ch.-A.", "Volkmann, T."],
+      "year": 2023,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-023-00310-2",
+      "reference": "Matson, D. M., Battezzati, L., Galenko, P. K., et al. (2023). Electromagnetic levitation containerless processing of metallic materials in microgravity: rapid solidification. npj Microgravity, 9, 65. https://doi.org/10.1038/s41526-023-00310-2",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-023-00310-2"
+    },
+    "alloy": "Multiple metallic alloy classes",
+    "composition": "ISS-EML program portfolio",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "variables": {
+      "solidification_technique": "electromagnetic levitation; containerless rapid solidification",
+      "platform_class": "long-duration orbital microgravity"
+    },
+    "review_summary": "ISS-EML is the central processing route for containerless metallic-alloy rapid solidification in the current corpus. The review frames space levitation as a benchmark environment for alloy thermodynamics, nucleation and growth, heat and mass transfer, interface dynamics, microstructure evolution, and defect formation.",
+    "key_findings": [
+      "Containerless ISS-EML experiments decouple crucible interaction from melt processing and support controlled-convection studies.",
+      "The rapid-solidification program explicitly links space experiments to model validation for industrial casting, atomization, welding, and additive manufacturing."
+    ],
+    "theory_alignment": "Maps to Flemings heat/solute conservation and growth-kinetics chapters because ISS-EML is used to isolate thermal, solutal, and flow terms that are otherwise coupled by gravity.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": ["review_source_no_single_alloy_table"],
+    "flemings_alignment": ["Processing routes", "Ch.1 heat and solute conservation"]
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys",
+      "authors": ["Zhang, G.", "Luo, X.", "Li, Y.", "Liu, S."],
+      "year": 2024,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-024-00454-9",
+      "reference": "Zhang, G., Luo, X., Li, Y., et al. (2024). Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. npj Microgravity, 10, 114. https://doi.org/10.1038/s41526-024-00454-9",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-024-00454-9"
+    },
+    "alloy": "Al-Si; Al-Cu",
+    "composition": "Al-3.5 wt.% Si; Al-10 wt.% Cu",
+    "platform": "Drop tube",
+    "facility": "50-m-high drop tube",
+    "variables": {
+      "drop_tube_height_m": 50,
+      "solidification_technique": "directional solidification"
+    },
+    "review_summary": "The Al-Si and Al-Cu comparison gives the wiki a recent metallic-alloy benchmark in which the same study contrasts gravity and microgravity directional solidification.",
+    "key_findings": [
+      "Dendrite arm spacing, eutectic content, grain size, and compositional distribution differ between gravity and microgravity.",
+      "The sign and density of the segregating solute affect how gravity changes the directional-solidification outcome."
+    ],
+    "theory_alignment": "Directly supports Flemings-style coupling between solute redistribution, density gradients, thermosolutal convection, and dendritic morphology.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["requires_table_extraction_for_DAS_and_composition_profiles"],
+    "flemings_alignment": ["Processing routes", "Ch.1 heat and solute conservation"]
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys",
+      "authors": ["Zhang, G.", "Luo, X.", "Li, Y.", "Liu, S."],
+      "year": 2024,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-024-00454-9",
+      "reference": "Zhang, G., Luo, X., Li, Y., et al. (2024). Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. npj Microgravity, 10, 114. https://doi.org/10.1038/s41526-024-00454-9",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-024-00454-9"
+    },
+    "alloy": "Al-Si; Al-Cu",
+    "composition": "Al-3.5 wt.% Si; Al-10 wt.% Cu",
+    "platform": "Drop tube",
+    "facility": "50-m-high drop tube",
+    "variables": {
+      "drop_tube_height_m": 50
+    },
+    "review_summary": "For flow and macrosegregation, this paper is important because it treats gravity effects as solute-dependent rather than as a simple on/off convection switch.",
+    "key_findings": [
+      "Thermosolutal convection arises from temperature and concentration gradients in the melt under ground gravity.",
+      "Gravity effects differed between Al-Si and Al-Cu because Si and Cu have different density and redistribution behavior in aluminum."
+    ],
+    "theory_alignment": "Supports Flemings Ch.7 macrosegregation framing: convection changes solute transport, but the direction of the effect depends on alloy thermodynamics and density contrast.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["macrosegregation_profile_values_need_manual_table_extraction"],
+    "flemings_alignment": ["Ch.1 heat and solute conservation", "Ch.7 macrosegregation theory"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Dendritic Growth Velocities in Microgravity",
+      "authors": ["Glicksman, M. E.", "Koss, M. B.", "Winsa, E. A."],
+      "year": 1994,
+      "journal": "Physical Review Letters",
+      "doi": "10.1103/PhysRevLett.73.573",
+      "reference": "Glicksman, M. E., Koss, M. B., & Winsa, E. A. (1994). Dendritic growth velocities in microgravity. Physical Review Letters, 73, 573-576. https://doi.org/10.1103/PhysRevLett.73.573",
+      "source_type": "peer_reviewed",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.73.573"
+    },
+    "alloy": "Succinonitrile model alloy",
+    "composition": "Pure succinonitrile",
+    "platform": "Space Shuttle Columbia",
+    "mission": "STS-62",
+    "variables": {
+      "undercooling_min_K": 0.05,
+      "undercooling_max_K": 1.5
+    },
+    "review_summary": "The Glicksman microgravity dendrite experiment remains a foundational benchmark for diffusion-controlled dendritic growth because it measured tip velocity without normal buoyancy-driven convection.",
+    "key_findings": [
+      "Microgravity dendrite velocity data agreed with Ivantsov-type diffusion analysis over the reported undercooling range.",
+      "Ground convection can perturb dendrite kinetics even at modest undercooling."
+    ],
+    "theory_alignment": "Anchors Flemings growth-kinetics discussion in the Ivantsov diffusion solution and dendrite tip selection.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["transparent_analog_not_metal_alloy"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Dendritic solidification of Succinonitrile-0.24 wt% water alloy: A comparison with microgravity experiments for validating dendrite tip velocity",
+      "authors": ["Kao, A.", "Pericleous, K.", "Shevchenko, N.", "Browne, D. J."],
+      "year": 2020,
+      "journal": "Acta Astronautica",
+      "doi": "10.1016/j.actaastro.2020.05.059",
+      "reference": "Kao, A., Pericleous, K., Shevchenko, N., et al. (2020). Dendritic solidification of Succinonitrile-0.24 wt% water alloy: A comparison with microgravity experiments for validating dendrite tip velocity. Acta Astronautica, 175, 163-173. https://doi.org/10.1016/j.actaastro.2020.05.059",
+      "source_type": "peer_reviewed",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576520303428"
+    },
+    "alloy": "Succinonitrile-water model alloy",
+    "composition": "Succinonitrile-0.24 wt.% water",
+    "platform": "ISS",
+    "facility": "PFMI",
+    "variables": {
+      "model_comparison": "cellular automata and phase-field"
+    },
+    "review_summary": "This paper converts ISS dendrite observations into a validation case for numerical models, making it useful for the wiki's benchmark and model-validation thread.",
+    "key_findings": [
+      "ISS microgravity remelting and directional solidification produced constrained diffusive dendritic growth.",
+      "Cellular automata and phase-field simulations were compared against measured dendrite tip velocity."
+    ],
+    "theory_alignment": "Connects Flemings dendrite-growth theory to modern phase-field and cellular-automata validation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "inter_study",
+    "gap_flags": ["transparent_analog_not_metal_alloy", "tip_velocity_values_need_table_extraction"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys: Benchmark experiments under microgravity on-board the International Space Station",
+      "authors": ["CETSOL team"],
+      "year": 2024,
+      "journal": "Materialia",
+      "doi": "10.1016/j.mtla.2024.102171",
+      "reference": "CETSOL team. (2024). Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys: Benchmark experiments under microgravity on-board the International Space Station. Materialia. https://doi.org/10.1016/j.mtla.2024.102171",
+      "source_type": "peer_reviewed",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589152924001686"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al-4 wt.% Cu; Al-10 wt.% Cu; Al-20 wt.% Cu",
+    "platform": "ISS",
+    "facility": "ESA gradient furnace",
+    "mission": "CETSOL",
+    "variables": {
+      "solidification_technique": "directional solidification",
+      "composition_count": 3
+    },
+    "review_summary": "The ISS CETSOL Al-Cu experiments are direct metallic benchmarks for columnar and equiaxed dendritic growth under diffusive conditions.",
+    "key_findings": [
+      "Grain-refined Al-Cu samples were directionally solidified on the ISS to study columnar growth, equiaxed growth, and the columnar-to-equiaxed transition.",
+      "The experiment reports thermal characterization at liquidus, solidus, and eutectic front positions."
+    ],
+    "theory_alignment": "Feeds the Flemings CET discussion by linking G, V, cooling rate, and grain structure in a metallic alloy.",
+    "extraction_status": "qualitative",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "none",
+    "gap_flags": ["G_V_cooling_rate_values_need_table_extraction"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Effect of microgravity on the solidification of aluminum-bismuth-tin immiscible alloys",
+      "authors": ["Jiang, H.", "Li, S.", "Zhang, L.", "He, J.", "Zhao, J."],
+      "year": 2019,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-019-0086-z",
+      "reference": "Jiang, H., Li, S., Zhang, L., et al. (2019). Effect of microgravity on the solidification of aluminum-bismuth-tin immiscible alloys. npj Microgravity, 5, 26. https://doi.org/10.1038/s41526-019-0086-z",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-019-0086-z"
+    },
+    "alloy": "Al-Bi-Sn",
+    "composition": "Immiscible Al-Bi-Sn alloy",
+    "platform": "Tiangong 2",
+    "variables": {
+      "phase_type": "immiscible",
+      "visible_gas_cavity_observed": false
+    },
+    "review_summary": "The Tiangong 2 Al-Bi-Sn study is a modern immiscible-alloy case where microgravity was used to suppress buoyancy-driven phase separation and produce a more dispersed structure.",
+    "key_findings": [
+      "Directional solidification under microgravity produced a well-dispersed microstructure.",
+      "The reported sample matrix showed equiaxed morphology and no visible gas cavity or pinhole."
+    ],
+    "theory_alignment": "Aligns with Flemings multiphase-solidification chapters by isolating liquid-liquid decomposition, droplet migration, and final phase morphology from sedimentation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": ["droplet_size_distribution_needs_manual_extraction"],
+    "flemings_alignment": ["Ch.4 eutectic growth", "Ch.6 polyphase reactions"]
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Solidification of hyper-monotectic Al-Pb alloy under microgravity using a 1000-m drop shaft",
+      "authors": ["Yasuda, H.", "Ohnaka, I.", "Kawasaki, K."],
+      "year": 2004,
+      "journal": "Materials Letters",
+      "doi": "10.1016/j.matlet.2004.03.027",
+      "reference": "Yasuda, H., Ohnaka, I., Kawasaki, K., et al. (2004). Solidification of hyper-monotectic Al-Pb alloy under microgravity using a 1000-m drop shaft. Materials Letters, 58, 2548-2552. https://doi.org/10.1016/j.matlet.2004.03.027",
+      "source_type": "peer_reviewed",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167577X0400223X"
+    },
+    "alloy": "Al-Pb",
+    "composition": "Hyper-monotectic Al-Pb",
+    "platform": "Drop shaft",
+    "facility": "1000-m drop shaft",
+    "variables": {
+      "phase_type": "monotectic",
+      "cooling_rate_K_per_s_1g": 130,
+      "cooling_rate_K_per_s_microgravity": 70
+    },
+    "review_summary": "The Al-Pb drop-shaft study provides a useful quantitative benchmark because the reported microgravity sample had a lower cooling rate but a more homogeneous lead-particle distribution than the normal-gravity sample.",
+    "key_findings": [
+      "The normal-gravity sample showed sedimentation of large lead-rich particles at the sample bottom.",
+      "The microgravity sample showed comparatively homogeneous lead-particle distribution despite the lower cooling rate."
+    ],
+    "theory_alignment": "Supports the distinction between thermal history and density-driven phase segregation in monotectic alloys.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["particle_size_distribution_needs_manual_extraction"],
+    "flemings_alignment": ["Ch.4 eutectic growth", "Ch.6 polyphase reactions"]
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "A Model for the Anomalous Velocity-Undercooling Behaviour of Levitated Al-Ni Alloys On-board the International Space Station",
+      "authors": ["Mullis, A. M."],
+      "year": 2021,
+      "journal": "Microgravity Science and Technology",
+      "doi": "10.1007/s12217-021-09911-6",
+      "reference": "Mullis, A. M. (2021). A model for the anomalous velocity-undercooling behaviour of levitated Al-Ni alloys on-board the International Space Station. Microgravity Science and Technology, 33, 70. https://doi.org/10.1007/s12217-021-09911-6",
+      "source_type": "peer_reviewed",
+      "url": "https://link.springer.com/article/10.1007/s12217-021-09911-6"
+    },
+    "alloy": "Al-Ni",
+    "composition": "Al-rich Al-Ni, Ni < 45 at.%",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "variables": {
+      "solidification_technique": "electromagnetic levitation",
+      "model_comparison": "velocity-undercooling model"
+    },
+    "review_summary": "The Al-Ni ISS-EML work is a focused interface-kinetics case where recalescence velocity does not monotonically increase with undercooling over part of the accessible range.",
+    "key_findings": [
+      "Al-Ni alloys processed on the ISS showed anomalous velocity-undercooling behavior.",
+      "The paper models recalescence velocity trends measured in electromagnetically levitated samples."
+    ],
+    "theory_alignment": "Extends Flemings Ch.9 by showing that interface kinetics in undercooled alloy melts can require solute- and phase-selection-aware models.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": ["velocity_undercooling_curve_requires_digitization"],
+    "flemings_alignment": ["Ch.9 nucleation", "Ch.9 interface kinetics"]
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Electromagnetic levitation containerless processing of metallic materials in microgravity: rapid solidification",
+      "authors": ["Matson, D. M.", "Battezzati, L.", "Galenko, P. K.", "Gandin, Ch.-A.", "Volkmann, T."],
+      "year": 2023,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-023-00310-2",
+      "reference": "Matson, D. M., Battezzati, L., Galenko, P. K., et al. (2023). Electromagnetic levitation containerless processing of metallic materials in microgravity: rapid solidification. npj Microgravity, 9, 65. https://doi.org/10.1038/s41526-023-00310-2",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-023-00310-2"
+    },
+    "alloy": "Metallic glasses; Al-based alloys; Fe-Cr-Ni steels",
+    "composition": "Multiple ISS-EML programs",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "variables": {
+      "solidification_technique": "containerless undercooling"
+    },
+    "review_summary": "For nucleation and undercooling, the rapid-solidification review ties ISS-EML experiments to phase selection, metastable phases, and convection-controlled nucleation.",
+    "key_findings": [
+      "ISS-EML supports studies of the influence of convection on nucleation and metastable phase selection.",
+      "The facility enables different stirring conditions by decoupling heating and positioning fields."
+    ],
+    "theory_alignment": "Supports classical and coupled-flux nucleation discussions where undercooling, viscosity, interfacial energy, and stirring enter the nucleation rate.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": ["program_review_requires_linked_primary_experiments"],
+    "flemings_alignment": ["Ch.9 nucleation", "Ch.9 interface kinetics"]
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Electromagnetic levitation containerless processing of metallic materials in microgravity: thermophysical properties",
+      "authors": ["Mohr, M.", "Dong, Y.", "Bracker, G. P.", "Hyers, R. W.", "Fecht, H.-J."],
+      "year": 2023,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-023-00281-4",
+      "reference": "Mohr, M., Dong, Y., Bracker, G. P., et al. (2023). Electromagnetic levitation containerless processing of metallic materials in microgravity: thermophysical properties. npj Microgravity, 9, 34. https://doi.org/10.1038/s41526-023-00281-4",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-023-00281-4"
+    },
+    "alloy": "Multiple metallic melts",
+    "composition": "ISS-EML thermophysical-property portfolio",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "variables": {
+      "measurement_techniques": "oscillating drop; optical/inductive density; AC calorimetry",
+      "sample_mass_g_typical": 1.0
+    },
+    "review_summary": "The thermophysical-property review supplies the property schema for liquid metallic melts: surface tension, viscosity, density, specific heat, thermal conductivity, emissivity, and electrical resistivity.",
+    "key_findings": [
+      "Microgravity reduces levitation-force-driven flow and improves droplet sphericity, which improves thermophysical-property measurement precision.",
+      "ISS duration enables equilibrium measurements such as AC calorimetry that are difficult in short-duration reduced-gravity platforms."
+    ],
+    "theory_alignment": "Supplies the material-property inputs needed for Flemings heat-flow, convection, stability, and dendrite-spacing models.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": ["individual_alloy_property_tables_need_primary_extraction"],
+    "flemings_alignment": ["Ch.1 heat flow", "Ch.2 plane fronts", "Ch.8 stability"]
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "The measurement of thermophysical properties in microgravity using electromagnetic levitation",
+      "authors": ["Egry, I.", "Fecht, H.-J.", "Hoyer, W."],
+      "year": 1991,
+      "journal": "Advances in Space Research",
+      "doi": "10.1016/0273-1177(91)90294-T",
+      "reference": "Egry, I., Fecht, H.-J., & Hoyer, W. (1991). The measurement of thermophysical properties in microgravity using electromagnetic levitation. Advances in Space Research, 11, 263-266. https://doi.org/10.1016/0273-1177(91)90294-T",
+      "source_type": "peer_reviewed",
+      "url": "https://www.sciencedirect.com/science/article/pii/027311779190294T"
+    },
+    "alloy": "Undercooled metallic melts",
+    "composition": "Generic metallic melts",
+    "platform": "Microgravity platform proposed",
+    "facility": "Electromagnetic levitation",
+    "variables": {
+      "measured_properties": "viscosity; surface tension"
+    },
+    "review_summary": "This early EML paper establishes why undercooled metallic-melt properties were targeted for microgravity measurement before the ISS-EML era.",
+    "key_findings": [
+      "The proposed method obtains surface tension and viscosity from oscillation frequency and damping of levitated molten samples.",
+      "The target state is the undercooled melt, which is difficult to access by conventional techniques."
+    ],
+    "theory_alignment": "Connects thermophysical measurement to nucleation and undercooled-melt solidification models.",
+    "extraction_status": "qualitative",
+    "evidence_level": "technical_report",
+    "benchmark_match_type": "none",
+    "gap_flags": ["proposal_or_short_paper_not_full_property_dataset"],
+    "flemings_alignment": ["Ch.1 heat flow", "Ch.2 plane fronts", "Ch.8 stability"]
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Detached Bridgman Growth-A Standard Crystal Growth Method with a New Twist",
+      "authors": ["Croll, A.", "Volz, M. P."],
+      "year": 2009,
+      "journal": "MRS Bulletin",
+      "doi": "10.1557/mrs2009.74",
+      "reference": "Croll, A., & Volz, M. P. (2009). Detached Bridgman growth-A standard crystal growth method with a new twist. MRS Bulletin, 34, 245-250. https://doi.org/10.1557/mrs2009.74",
+      "source_type": "peer_reviewed",
+      "url": "https://link.springer.com/article/10.1557/mrs2009.74"
+    },
+    "alloy": "Semiconductor crystals",
+    "composition": "GaAs, Ge, CdTe, InSb, Si and related crystals",
+    "platform": "Microgravity and ground Bridgman",
+    "facility": "Bridgman/VGF",
+    "variables": {
+      "gap_width_min_um": 10,
+      "gap_width_max_um": 100
+    },
+    "review_summary": "Detached Bridgman growth is included as a distinct domain because microgravity experiments revealed that crucible contact can be interrupted by a stable gap, reducing mechanical stress during cooling.",
+    "key_findings": [
+      "Detached growth separates the crystal from the crucible wall by a gap on the order of 10-100 um.",
+      "The method is relevant to lowering thermal and mechanical stress in semiconductor crystal growth."
+    ],
+    "theory_alignment": "Links Flemings plane-front and nucleation/interface concepts to capillarity, wetting, meniscus stability, and defect generation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": ["crystal_quality_metrics_need_primary_experiment_records"],
+    "flemings_alignment": ["Ch.2 directional solidification", "Ch.9 interface kinetics"]
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Bridgman growth of detached GeSi crystals",
+      "authors": ["Volz, M. P.", "Croll, A.", "Szofran, F. R."],
+      "year": 2002,
+      "journal": "Journal of Crystal Growth",
+      "doi": "10.1016/S0022-0248(01)02199-6",
+      "reference": "Volz, M. P., Croll, A., Szofran, F. R., et al. (2002). Bridgman growth of detached GeSi crystals. Journal of Crystal Growth, 237-239, 1844-1848. https://doi.org/10.1016/S0022-0248(01)02199-6",
+      "source_type": "peer_reviewed",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022024801021996"
+    },
+    "alloy": "GeSi",
+    "composition": "Ge1-xSix, 0 < x < 0.12",
+    "platform": "Ground Bridgman with microgravity-relevant detachment control",
+    "facility": "Vertical Bridgman",
+    "variables": {
+      "x_min": 0,
+      "x_max": 0.12,
+      "crucible_material": "pyrolytic boron nitride"
+    },
+    "review_summary": "The GeSi detached-growth paper provides a semiconductor crystal case where applied pressure differential is used to promote detached Bridgman growth.",
+    "key_findings": [
+      "Pressure-difference control was used to reproducibly grow mostly detached GeSi crystals.",
+      "The study connects detachment to hydrostatic-pressure balance and crucible geometry."
+    ],
+    "theory_alignment": "Supports the meniscus and pressure-balance part of detached Bridgman theory.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": ["EPD_and_XRD_quality_values_need_full_text_extraction"],
+    "flemings_alignment": ["Ch.2 directional solidification", "Ch.9 interface kinetics"]
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Effect of microgravity on the solidification of aluminum-bismuth-tin immiscible alloys",
+      "authors": ["Jiang, H.", "Li, S.", "Zhang, L.", "He, J.", "Zhao, J."],
+      "year": 2019,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-019-0086-z",
+      "reference": "Jiang, H., Li, S., Zhang, L., et al. (2019). Effect of microgravity on the solidification of aluminum-bismuth-tin immiscible alloys. npj Microgravity, 5, 26. https://doi.org/10.1038/s41526-019-0086-z",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-019-0086-z"
+    },
+    "alloy": "Al-Bi-Sn",
+    "composition": "Immiscible Al-Bi-Sn alloy",
+    "platform": "Tiangong 2",
+    "variables": {
+      "visible_gas_cavity_observed": false
+    },
+    "review_summary": "The Al-Bi-Sn paper contributes to the porosity domain because it explicitly reports the absence of visible gas cavities or pinholes in the returned microgravity sample.",
+    "key_findings": [
+      "No visible gas cavity or pinhole was reported in the Tiangong 2 microgravity sample.",
+      "The result separates droplet/phase-dispersion behavior from classic gas-porosity measurements."
+    ],
+    "theory_alignment": "Relevant to Flemings defect discussions, but the paper is stronger for immiscible phase morphology than for quantitative gas-pore kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": ["pore_size_distribution_not_reported_in_seed_record"],
+    "flemings_alignment": ["Ch.10 defects", "Additive manufacturing bridge"]
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Dynamics of pore formation during laser powder bed fusion additive manufacturing",
+      "authors": ["Martin, A. A.", "Calta, N. P.", "Khairallah, S. A.", "Matthews, M. J."],
+      "year": 2019,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-019-10009-2",
+      "reference": "Martin, A. A., Calta, N. P., Khairallah, S. A., et al. (2019). Dynamics of pore formation during laser powder bed fusion additive manufacturing. Nature Communications, 10, 1987. https://doi.org/10.1038/s41467-019-10009-2",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41467-019-10009-2"
+    },
+    "alloy": "Metal LPBF alloys",
+    "composition": "Laser powder bed fusion process window",
+    "platform": "Ground synchrotron experiment",
+    "facility": "In situ X-ray imaging",
+    "variables": {
+      "AM_process": "LPBF",
+      "pore_type": "keyhole",
+      "solidification_context": "rapid laser melt pool"
+    },
+    "review_summary": "This AM bridge record supplies the pore-formation mechanism side of the D8 comparison: keyhole collapse traps gas during rapid melt-pool solidification.",
+    "key_findings": [
+      "In situ X-ray imaging showed pores forming when deep keyhole depressions rapidly form and collapse.",
+      "The paper links laser scan transients to trapped gas pores and liquid-solid interface dynamics."
+    ],
+    "theory_alignment": "Provides a high-cooling-rate defect analogue for Flemings Ch.10, while gravity is secondary to recoil pressure, capillarity, vaporization, and rapid solidification.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": ["not_microgravity", "AM_bridge_record"],
+    "flemings_alignment": ["Ch.10 defects", "Additive manufacturing bridge"]
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Keyhole fluctuation and pore formation mechanisms during laser powder bed fusion additive manufacturing",
+      "authors": ["Huang, Y.", "Fleming, T. G.", "Clark, S. J.", "Leung, C. L. A.", "Lee, P. D."],
+      "year": 2022,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-022-28694-x",
+      "reference": "Huang, Y., Fleming, T. G., Clark, S. J., et al. (2022). Keyhole fluctuation and pore formation mechanisms during laser powder bed fusion additive manufacturing. Nature Communications, 13, 1170. https://doi.org/10.1038/s41467-022-28694-x",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41467-022-28694-x"
+    },
+    "alloy": "Metal LPBF alloys",
+    "composition": "Laser powder bed fusion process window",
+    "platform": "Ground synchrotron experiment",
+    "facility": "In situ X-ray imaging",
+    "variables": {
+      "AM_process": "LPBF",
+      "pore_type": "keyhole",
+      "keyhole_fluctuation_min_kHz": 2.5,
+      "keyhole_fluctuation_max_kHz": 10.0,
+      "laser_power_min_W": 100,
+      "laser_power_max_W": 1000,
+      "scan_speed_min_m_per_s": 0.05,
+      "scan_speed_max_m_per_s": 4.0,
+      "cooling_rate_min_K_per_s": 10000,
+      "cooling_rate_max_K_per_s": 1000000
+    },
+    "review_summary": "This paper gives quantitative bridge values for AM: LPBF operates at high laser power density, scan speeds of order 0.05-4 m/s, and cooling rates around 10^4-10^6 K/s.",
+    "key_findings": [
+      "Keyhole porosity can initiate in transition as well as unstable keyhole regimes.",
+      "Keyhole fluctuations were reported at 2.5-10 kHz under high power-velocity conditions."
+    ],
+    "theory_alignment": "Useful for comparing gravity-suppressed casting flows with rapid-solidification AM where vapor recoil, surface tension, and short timescale dominate.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": ["not_microgravity", "AM_bridge_record"],
+    "flemings_alignment": ["Ch.10 defects", "Additive manufacturing bridge"]
+  },
+  {
+    "domain": "D9",
+    "citation": {
+      "title": "Electromagnetic levitation containerless processing of metallic materials in microgravity: rapid solidification",
+      "authors": ["Matson, D. M.", "Battezzati, L.", "Galenko, P. K.", "Gandin, Ch.-A.", "Volkmann, T."],
+      "year": 2023,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-023-00310-2",
+      "reference": "Matson, D. M., Battezzati, L., Galenko, P. K., et al. (2023). Electromagnetic levitation containerless processing of metallic materials in microgravity: rapid solidification. npj Microgravity, 9, 65. https://doi.org/10.1038/s41526-023-00310-2",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-023-00310-2"
+    },
+    "alloy": "Multiple metallic alloy classes",
+    "composition": "ISS-EML program portfolio",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "variables": {},
+    "review_summary": "The current seed corpus confirms a persistent processing-structure-property gap: microgravity work is rich in process physics and microstructure, but mechanical property datasets on returned microgravity-solidified specimens are sparse in the seeded sources.",
+    "key_findings": [
+      "ISS-EML review connects process control and microstructure to downstream mechanical-property optimization, but it is not itself a mechanical test dataset.",
+      "The highest-priority D9 task is to pair returned-specimen microstructure with tensile, hardness, fatigue, or creep data."
+    ],
+    "theory_alignment": "Maps to Flemings Ch.10 by identifying the missing final link from process variables and defects to mechanical response.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": ["mechanical_property_data_absent", "needs_returned_specimen_property_sources"],
+    "flemings_alignment": ["Ch.10 properties and defects"]
+  }
+]

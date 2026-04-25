@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import asdict, dataclass, field
+from dataclasses import asdict, dataclass, field, fields
 from typing import Any, Literal
 
 
@@ -34,6 +34,11 @@ class LiteratureRecord:
     facility: str | None = None
     mission: str | None = None
     variables: dict[str, Any] = field(default_factory=dict)
+    review_summary: str | None = None
+    key_findings: list[str] = field(default_factory=list)
+    theory_alignment: str | None = None
+    extraction_status: Literal["metadata_only", "qualitative", "quantitative_partial", "quantitative_complete"] = "metadata_only"
+    evidence_level: Literal["review", "experiment", "model", "benchmark", "technical_report"] = "experiment"
     benchmark_source: str | None = None
     benchmark_match_type: Literal["intra_study", "inter_study", "none"] = "none"
     gap_flags: list[str] = field(default_factory=list)
@@ -48,7 +53,8 @@ class LiteratureRecord:
             payload["citation"] = Citation.from_dict(citation)
         if not isinstance(payload.get("citation"), Citation):
             raise ValueError("record must include a citation object")
-        return cls(**payload)
+        allowed = {item.name for item in fields(cls)}
+        return cls(**{key: value for key, value in payload.items() if key in allowed})
 
 
 @dataclass
@@ -72,4 +78,3 @@ class PipelineOutput:
     benchmark_pairs: list[dict[str, Any]]
     gap_matrix: dict[str, dict[str, str]]
     qa_report: dict[str, Any]
-

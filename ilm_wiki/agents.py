@@ -334,7 +334,14 @@ class ReportAgent:
         lines = [f"## {domain_id}. {handoff.title}", ""]
         lines.append(f"Flemings alignment: {', '.join(DOMAINS[domain_id].flemings_alignment)}.")
         lines.append("")
-        lines.append("Key findings are limited to the traceable records currently ingested. The system flags this section for retry when the source count is below the configured threshold.")
+        lines.append(self._domain_overview(handoff))
+        lines.append("")
+        findings = self._domain_findings(handoff)
+        if findings:
+            lines.extend(["### Key Findings", ""])
+            lines.extend(f"- {finding}" for finding in findings)
+            lines.append("")
+        lines.append("The table below lists traceable records currently ingested for this domain. The system flags the section for retry when the source count is below the configured threshold.")
         lines.append("")
         if handoff.qa_flags:
             lines.append("QA flags: " + "; ".join(handoff.qa_flags))
@@ -346,12 +353,19 @@ class ReportAgent:
                     "alloy": record.alloy,
                     "platform": record.platform,
                     "facility": record.facility,
+                    "status": record.extraction_status,
+                    "evidence": record.evidence_level,
                     "variables": self._compact_variables(record.variables),
                     "citation": record.citation.doi or record.citation.reference,
                     "gaps": "; ".join(record.gap_flags),
                 }
             )
-        lines.extend(self._table(rows, ["alloy", "platform", "facility", "variables", "citation", "gaps"]))
+        lines.extend(self._table(rows, ["alloy", "platform", "facility", "status", "evidence", "variables", "citation", "gaps"]))
+        alignments = [record.theory_alignment for record in handoff.records if record.theory_alignment]
+        if alignments:
+            lines.extend(["### Theory Alignment", ""])
+            lines.extend(f"- {alignment}" for alignment in alignments)
+            lines.append("")
         lines.extend(["### Citations", ""])
         citations = sorted({record.citation.reference or record.citation.doi or "Unknown" for record in handoff.records})
         if citations:
@@ -360,6 +374,24 @@ class ReportAgent:
             lines.append("- No validated sources ingested yet.")
         lines.append("")
         return lines
+
+    def _domain_overview(self, handoff: DomainHandoff) -> str:
+        summaries = [record.review_summary for record in handoff.records if record.review_summary]
+        if not summaries:
+            return "No narrative synthesis has been ingested yet for this domain."
+        return " ".join(summaries)
+
+    def _domain_findings(self, handoff: DomainHandoff) -> list[str]:
+        findings: list[str] = []
+        seen: set[str] = set()
+        for record in handoff.records:
+            citation = record.citation.doi or record.citation.reference or "source"
+            for finding in record.key_findings:
+                line = f"{finding} ({citation})"
+                if line not in seen:
+                    findings.append(line)
+                    seen.add(line)
+        return findings
 
     def _benchmarks(self) -> str:
         lines = ["# 1g vs Microgravity Benchmark Table", ""]

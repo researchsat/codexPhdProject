@@ -38,6 +38,14 @@ For better PDF text extraction, install `pypdf` in your environment. If it is un
 
 Use `data/manual_records/example_record.json` as a starting point. Manual records are useful for curated extraction from paywalled papers or human-verified table data.
 
+The runtime record model is mirrored by `config/literature_record.schema.json`. Validate local records with:
+
+```bash
+ilm-wiki validate-records --manual-dir data/manual_records
+```
+
+The seeded corpus in `data/manual_records/seed_literature.json` gives the first traceable literature-review layer across D1-D9. It intentionally marks many entries as `qualitative` or `quantitative_partial` until paper tables and figures are manually extracted.
+
 ## Deployment
 
 Local CLI:
@@ -56,5 +64,5 @@ docker run --rm -v "$PWD/data:/app/data" -v "$PWD/output:/app/output" ilm-wiki
 
 ## Notes
 
-- “ILM wiki Karpathy” is implemented as a plain, dense Markdown wiki style: simple headings, compact tables, source-backed claims, and explicit gaps.
+- “LLM wiki Karpathy” is implemented as a plain, dense Markdown wiki style: simple headings, compact tables, source-backed claims, and explicit gaps.
 - Live literature search adapters are kept behind an optional interface so the pipeline remains reproducible when network access or database credentials are unavailable.

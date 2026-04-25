@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/researchsat/codexPhdProject/config/literature_record.schema.json",
+  "title": "Microgravity Solidification Literature Record",
+  "type": "object",
+  "required": ["domain", "citation"],
+  "additionalProperties": false,
+  "properties": {
+    "domain": {
+      "type": "string",
+      "enum": ["D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8", "D9"]
+    },
+    "citation": {
+      "type": "object",
+      "required": ["reference"],
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": ["string", "null"] },
+        "authors": { "type": "array", "items": { "type": "string" } },
+        "year": { "type": ["integer", "null"], "minimum": 1900, "maximum": 2026 },
+        "journal": { "type": ["string", "null"] },
+        "doi": { "type": ["string", "null"], "pattern": "^10\\.[0-9]{4,9}/.+" },
+        "reference": { "type": ["string", "null"] },
+        "source_type": {
+          "type": "string",
+          "enum": ["peer_reviewed", "technical_report", "conference", "manual", "pdf_extraction", "unknown"]
+        },
+        "url": { "type": ["string", "null"], "format": "uri" }
+      },
+      "anyOf": [
+        { "required": ["doi"] },
+        { "required": ["reference"] }
+      ]
+    },
+    "alloy": { "type": ["string", "null"] },
+    "composition": { "type": ["string", "null"] },
+    "platform": { "type": ["string", "null"] },
+    "facility": { "type": ["string", "null"] },
+    "mission": { "type": ["string", "null"] },
+    "variables": {
+      "type": "object",
+      "description": "Quantitative values keyed by canonical variable names; every numeric value must use a unit-bearing key.",
+      "additionalProperties": {
+        "type": ["number", "string", "boolean", "null", "object", "array"]
+      }
+    },
+    "review_summary": { "type": ["string", "null"] },
+    "key_findings": { "type": "array", "items": { "type": "string" } },
+    "theory_alignment": { "type": ["string", "null"] },
+    "extraction_status": {
+      "type": "string",
+      "enum": ["metadata_only", "qualitative", "quantitative_partial", "quantitative_complete"]
+    },
+    "evidence_level": {
+      "type": "string",
+      "enum": ["review", "experiment", "model", "benchmark", "technical_report"]
+    },
+    "benchmark_source": { "type": ["string", "null"] },
+    "benchmark_match_type": {
+      "type": "string",
+      "enum": ["intra_study", "inter_study", "none"]
+    },
+    "gap_flags": { "type": "array", "items": { "type": "string" } },
+    "flemings_alignment": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": ["string", "null"] }
+  }
+}
