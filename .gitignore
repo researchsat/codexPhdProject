@@ -7,3 +7,4 @@ output/*
 !output/*.md
 data/pdfs/*
 !data/pdfs/.gitkeep
+ReferencePapers/

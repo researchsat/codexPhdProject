@@ -1,0 +1,3881 @@
+[
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions",
+      "authors": [],
+      "year": 1998,
+      "journal": null,
+      "doi": null,
+      "reference": "A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions. Local PDF extraction from ReferencePapers/A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions_Tim.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions_Tim.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": "MEPHISTO",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using MEPHISTO. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/A computational study of transient plane front solidification of alloys in a Bridgman apparatus under microgravity conditions_Tim.pdf; text_chars=49410"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation",
+      "authors": [],
+      "year": 2010,
+      "journal": null,
+      "doi": "10.1140/epje/s10189-021-00102-0",
+      "reference": "Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation. https://doi.org/10.1140/epje/s10189-021-00102-0",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "Bridgman apparatus",
+    "mission": "XRMON",
+    "variables": {
+      "G_range_K_per_cm": {
+        "min": 30.0,
+        "max": 30.0,
+        "count": 1
+      },
+      "V_range_um_per_s": {
+        "min": 30.0,
+        "max": 30.0,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation.pdf; text_chars=76719"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth",
+      "authors": [],
+      "year": 2022,
+      "journal": null,
+      "doi": "10.1007/s11661-022-06909-6",
+      "reference": "Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth. https://doi.org/10.1007/s11661-022-06909-6",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_Thomas.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "Bridgman apparatus",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_Thomas.pdf; text_chars=71401"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Benchmark microgravity experiments and computations for 3D dendritic-array stability in directional solidification",
+      "authors": [],
+      "year": 2010,
+      "journal": null,
+      "doi": "10.1016/j.actamat.2025.120954",
+      "reference": "Benchmark microgravity experiments and computations for 3D dendritic-array stability in directional solidification. https://doi.org/10.1016/j.actamat.2025.120954",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Benchmark microgravity experiments and computations for 3D dendritic-array stability in directional solidification.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {
+      "G_range_K_per_cm": {
+        "min": 12.0,
+        "max": 19.0,
+        "count": 2
+      },
+      "V_range_um_per_s": {
+        "min": 3.0,
+        "max": 12.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Benchmark microgravity experiments and computations for 3D dendritic-array stability in directional solidification.pdf; text_chars=99311"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS",
+      "authors": [],
+      "year": 1991,
+      "journal": null,
+      "doi": null,
+      "reference": "CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS. Local PDF extraction from ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 5.0,
+        "max": 600.0,
+        "count": 4
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf; text_chars=49607"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS",
+      "authors": [],
+      "year": 1991,
+      "journal": null,
+      "doi": null,
+      "reference": "CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS. Local PDF extraction from ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 5.0,
+        "max": 600.0,
+        "count": 4
+      }
+    },
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/CONTAINERLESS UNDERCOOLING AND SOLIDIFICATION OF PURE METALS.pdf; text_chars=49607"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Comparative study of directional solidification of Al-7 wt% Si alloys in Space and on Earth- Effects of gravity on dendrite growth and Columnar-to-equiaxed transition",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": "10.1016/j.jcrysgro.2019.02.050",
+      "reference": "Comparative study of directional solidification of Al-7 wt% Si alloys in Space and on Earth- Effects of gravity on dendrite growth and Columnar-to-equiaxed transition. https://doi.org/10.1016/j.jcrysgro.2019.02.050",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Comparative study of directional solidification of Al-7 wt% Si alloys in Space and on Earth- Effects of gravity on dendrite growth and Columnar-to-equiaxed transition.pdf"
+    },
+    "alloy": "Al-Si",
+    "composition": "Al-7 wt% Si; Al-7 wt% Si",
+    "platform": "ISS",
+    "facility": null,
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Si using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Si."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Comparative study of directional solidification of Al-7 wt% Si alloys in Space and on Earth- Effects of gravity on dendrite growth and Columnar-to-equiaxed transition.pdf; text_chars=58100"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys",
+      "authors": [],
+      "year": 2024,
+      "journal": null,
+      "doi": "10.1038/s41526-024-00454-9",
+      "reference": "Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. https://doi.org/10.1038/s41526-024-00454-9",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN 2.pdf"
+    },
+    "alloy": "Al-Cu; Al-Si",
+    "composition": "Al-10 wt.% Cu; Al-3.5 wt.% Si",
+    "platform": "Drop tube / drop shaft",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting Al-Cu; Al-Si using Drop tube / drop shaft. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in Al-Cu; Al-Si."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN 2.pdf; text_chars=52599"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Conservation of mass and momentum for the flow of interdendritic liquid during solidification",
+      "authors": [],
+      "year": 1989,
+      "journal": null,
+      "doi": null,
+      "reference": "Conservation of mass and momentum for the flow of interdendritic liquid during solidification. Local PDF extraction from ReferencePapers/Conservation of mass and momentum for the flow of interdendritic liquid during solidification_Ganesan.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Conservation of mass and momentum for the flow of interdendritic liquid during solidification_Ganesan.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Conservation of mass and momentum for the flow of interdendritic liquid during solidification_Ganesan.pdf; text_chars=38025"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Containerless metal single-crystal growth via electromagnetic levitation",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1063/5.0064486",
+      "reference": "Containerless metal single-crystal growth via electromagnetic levitation. https://doi.org/10.1063/5.0064486",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Containerless metal single-crystal growth via electromagnetic levitation.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "Drop tube / drop shaft",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using Drop tube / drop shaft, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Containerless metal single-crystal growth via electromagnetic levitation.pdf; text_chars=32670"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Containerless metal single-crystal growth via electromagnetic levitation",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1063/5.0064486",
+      "reference": "Containerless metal single-crystal growth via electromagnetic levitation. https://doi.org/10.1063/5.0064486",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Containerless metal single-crystal growth via electromagnetic levitation.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "Drop tube / drop shaft",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Drop tube / drop shaft, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Containerless metal single-crystal growth via electromagnetic levitation.pdf; text_chars=32670"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Convection Effects During Bulk Transparent Alloy Solidification in DECLIC-DSI and Phase-Field Simulations in Diffusive Conditions",
+      "authors": [],
+      "year": 2010,
+      "journal": null,
+      "doi": "10.1007/s11837-017-2395-6",
+      "reference": "Convection Effects During Bulk Transparent Alloy Solidification in DECLIC-DSI and Phase-Field Simulations in Diffusive Conditions. https://doi.org/10.1007/s11837-017-2395-6",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Convection Effects During Bulk Transparent Alloy Solidification in DECLIC-DSI and Phase-Field Simulations in Diffusive Conditions_MOTA.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "IDGE",
+    "variables": {
+      "G_range_K_per_cm": {
+        "min": 10.0,
+        "max": 19.0,
+        "count": 4
+      }
+    },
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Convection Effects During Bulk Transparent Alloy Solidification in DECLIC-DSI and Phase-Field Simulations in Diffusive Conditions_MOTA.pdf; text_chars=37472"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Crucible de-wetting during bridgman growth of semiconductors in microgravity",
+      "authors": [],
+      "year": 1989,
+      "journal": null,
+      "doi": null,
+      "reference": "Crucible de-wetting during bridgman growth of semiconductors in microgravity. Local PDF extraction from ReferencePapers/Crucible de-wetting during bridgman growth of semiconductors in microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Crucible de-wetting during bridgman growth of semiconductors in microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": "Bridgman apparatus",
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Crucible de-wetting during bridgman growth of semiconductors in microgravity.pdf; text_chars=37949"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Crystal nucleation and dendrite growth of metastable phases in undercooled melts",
+      "authors": [],
+      "year": 2010,
+      "journal": null,
+      "doi": "10.1016/j.jallcom.2010.11.186",
+      "reference": "Crystal nucleation and dendrite growth of metastable phases in undercooled melts. https://doi.org/10.1016/j.jallcom.2010.11.186",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Crystal nucleation and dendrite growth of metastable phases in undercooled melts.pdf"
+    },
+    "alloy": "Al-Ni",
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 100.0,
+        "max": 359.0,
+        "count": 26
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting Al-Ni. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in Al-Ni."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Crystal nucleation and dendrite growth of metastable phases in undercooled melts.pdf; text_chars=31922"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION",
+      "authors": [],
+      "year": 1971,
+      "journal": null,
+      "doi": null,
+      "reference": "DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION. Local PDF extraction from ReferencePapers/DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "IDGE",
+    "variables": {
+      "G_range_K_per_cm": {
+        "min": 40.0,
+        "max": 40.0,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/DIRECTIONAL SOLIDIFICATION EXPERIMENTS IN MATERIALS SCIENCE LABORATORY OF THE INTERNATIONAL SPACE STATION.pdf; text_chars=55115"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Dendritic Growth tip velocities and radii of curvature in microgravity",
+      "authors": [],
+      "year": 1994,
+      "journal": null,
+      "doi": null,
+      "reference": "Dendritic Growth tip velocities and radii of curvature in microgravity. Local PDF extraction from ReferencePapers/Dendritic Growth tip velocities and radii of curvature in microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Dendritic Growth tip velocities and radii of curvature in microgravity.pdf"
+    },
+    "alloy": "Succinonitrile model alloy",
+    "composition": null,
+    "platform": "Space Shuttle",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Dendritic Growth tip velocities and radii of curvature in microgravity.pdf; text_chars=69348"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist",
+      "authors": [],
+      "year": 1973,
+      "journal": null,
+      "doi": null,
+      "reference": "Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist. Local PDF extraction from ReferencePapers/Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist.pdf"
+    },
+    "alloy": null,
+    "composition": "Si3N4",
+    "platform": null,
+    "facility": "Bridgman apparatus",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Detached Bridgman Growth—A Standard Crystal Growth Method with a New Twist.pdf; text_chars=27673"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Detached Solidification in Microgravity A",
+      "authors": [],
+      "year": 1998,
+      "journal": null,
+      "doi": null,
+      "reference": "Detached Solidification in Microgravity A. Local PDF extraction from ReferencePapers/Detached_Solidification_in_Microgravity_A_Review.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Detached_Solidification_in_Microgravity_A_Review.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "Ground-based microgravity analogue",
+    "facility": "Bridgman apparatus",
+    "mission": "IDGE",
+    "variables": {
+      "gap_width_range_um": {
+        "min": 60.0,
+        "max": 60.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Ground-based microgravity analogue, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Detached_Solidification_in_Microgravity_A_Review.pdf; text_chars=80797"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Directional solidification microstructures in diffusive and convective regimes",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Directional solidification microstructures in diffusive and convective regimes. Local PDF extraction from ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al–4.0 wt% Cu",
+    "platform": null,
+    "facility": "Bridgman apparatus",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting Al-Cu using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in Al-Cu."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf; text_chars=45791"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Directional solidification microstructures in diffusive and convective regimes",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Directional solidification microstructures in diffusive and convective regimes. Local PDF extraction from ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al–4.0 wt% Cu",
+    "platform": null,
+    "facility": "Bridgman apparatus",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Cu using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Cu."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf; text_chars=45791"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Directional solidification microstructures in diffusive and convective regimes",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Directional solidification microstructures in diffusive and convective regimes. Local PDF extraction from ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al–4.0 wt% Cu",
+    "platform": null,
+    "facility": "Bridgman apparatus",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting Al-Cu using Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Directional solidification microstructures in diffusive and convective regimes_Trivedi.pdf; text_chars=45791"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space",
+      "authors": [],
+      "year": 2005,
+      "journal": null,
+      "doi": "10.1016/j.jcrysgro.2005.04.061",
+      "reference": "Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space. https://doi.org/10.1016/j.jcrysgro.2005.04.061",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space_Thi.pdf"
+    },
+    "alloy": null,
+    "composition": "Al-1.5 wt% Ni; Al–1.5wt% Ni; Al–3.2wt% Ni",
+    "platform": "Ground-based microgravity analogue",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {
+      "undercooling_range_K": {
+        "min": 5.0,
+        "max": 24.0,
+        "count": 2
+      },
+      "G_range_K_per_cm": {
+        "min": 12.0,
+        "max": 2472.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using Ground-based microgravity analogue. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space_Thi.pdf; text_chars=46871"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space",
+      "authors": [],
+      "year": 2005,
+      "journal": null,
+      "doi": "10.1016/j.jcrysgro.2005.04.061",
+      "reference": "Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space. https://doi.org/10.1016/j.jcrysgro.2005.04.061",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space_Thi.pdf"
+    },
+    "alloy": null,
+    "composition": "Al-1.5 wt% Ni; Al–1.5wt% Ni; Al–3.2wt% Ni",
+    "platform": "Ground-based microgravity analogue",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {
+      "undercooling_range_K": {
+        "min": 5.0,
+        "max": 24.0,
+        "count": 2
+      },
+      "G_range_K_per_cm": {
+        "min": 12.0,
+        "max": 2472.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using Ground-based microgravity analogue. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space_Thi.pdf; text_chars=46871"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space",
+      "authors": [],
+      "year": 2005,
+      "journal": null,
+      "doi": "10.1016/j.jcrysgro.2005.04.061",
+      "reference": "Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space. https://doi.org/10.1016/j.jcrysgro.2005.04.061",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space_Thi.pdf"
+    },
+    "alloy": null,
+    "composition": "Al-1.5 wt% Ni; Al–1.5wt% Ni; Al–3.2wt% Ni",
+    "platform": "Ground-based microgravity analogue",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {
+      "undercooling_range_K": {
+        "min": 5.0,
+        "max": 24.0,
+        "count": 2
+      },
+      "G_range_K_per_cm": {
+        "min": 12.0,
+        "max": 2472.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using Ground-based microgravity analogue. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Directional solidification of Al-1.5 wt% Ni alloys under diffusion transport in space_Thi.pdf; text_chars=46871"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys",
+      "authors": [],
+      "year": 1978,
+      "journal": null,
+      "doi": "10.1038/s41526-019-0086-z",
+      "reference": "Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys. https://doi.org/10.1038/s41526-019-0086-z",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys.pdf"
+    },
+    "alloy": "Al-Bi-Sn; Al-Bi; Al-Pb; Al-In",
+    "composition": null,
+    "platform": "Tiangong",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi-Sn; Al-Bi; Al-Pb; Al-In."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys.pdf; text_chars=39778"
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys",
+      "authors": [],
+      "year": 1978,
+      "journal": null,
+      "doi": "10.1038/s41526-019-0086-z",
+      "reference": "Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys. https://doi.org/10.1038/s41526-019-0086-z",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys.pdf"
+    },
+    "alloy": "Al-Bi-Sn; Al-Bi; Al-Pb; Al-In",
+    "composition": null,
+    "platform": "Tiangong",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.10 defects",
+      "Additive manufacturing bridge"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys.pdf; text_chars=39778"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys",
+      "authors": [],
+      "year": 1978,
+      "journal": null,
+      "doi": "10.1038/s41526-019-0086-z",
+      "reference": "Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys. https://doi.org/10.1038/s41526-019-0086-z",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys.pdf"
+    },
+    "alloy": "Al-Bi-Sn; Al-Bi; Al-Pb; Al-In",
+    "composition": null,
+    "platform": "Tiangong",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in Al-Bi-Sn; Al-Bi; Al-Pb; Al-In."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effect of microgravity on the solidification of aluminum–bismuth–tin immiscible alloys.pdf; text_chars=39778"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Effect of weak convection on lamellar spacing of eutectics",
+      "authors": [],
+      "year": 1970,
+      "journal": null,
+      "doi": null,
+      "reference": "Effect of weak convection on lamellar spacing of eutectics. Local PDF extraction from ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf; text_chars=27357"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Effect of weak convection on lamellar spacing of eutectics",
+      "authors": [],
+      "year": 1970,
+      "journal": null,
+      "doi": null,
+      "reference": "Effect of weak convection on lamellar spacing of eutectics. Local PDF extraction from ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effect of weak convection on lamellar spacing of eutectics.pdf; text_chars=27357"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984).",
+      "authors": [],
+      "year": 1970,
+      "journal": null,
+      "doi": null,
+      "reference": "Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984).. Local PDF extraction from ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf; text_chars=15014"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984).",
+      "authors": [],
+      "year": 1970,
+      "journal": null,
+      "doi": null,
+      "reference": "Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984).. Local PDF extraction from ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Effects of gravity on interdendritic flow- An analytic approach Simpson & Kou (1984)..pdf; text_chars=15014"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity",
+      "authors": [],
+      "year": 1978,
+      "journal": null,
+      "doi": null,
+      "reference": "Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity. Local PDF extraction from ReferencePapers/Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Electromagnetic Levitation Part III- Thermophysical Property Measurements in Microgravity.pdf; text_chars=55761"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Electromagnetic levitation containerless processing of metallic materials in microgravity- rapid solidification",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00310-2",
+      "reference": "Electromagnetic levitation containerless processing of metallic materials in microgravity- rapid solidification. https://doi.org/10.1038/s41526-023-00310-2",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Electromagnetic levitation containerless processing of metallic materials in microgravity- rapid solidification.pdf"
+    },
+    "alloy": null,
+    "composition": "Cu50Zr50; Ti39.5Zr39.5Ni21; Zr64Ni36",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Electromagnetic levitation containerless processing of metallic materials in microgravity- rapid solidification.pdf; text_chars=80835"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Eutectic solidification patterns- Interest of microgravity environment",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi": "10.1016/j.crme.2016.10.008",
+      "reference": "Eutectic solidification patterns- Interest of microgravity environment. https://doi.org/10.1016/j.crme.2016.10.008",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Eutectic solidification patterns- Interest of microgravity environment.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "Transparent Alloys",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS, Transparent Alloys. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Eutectic solidification patterns- Interest of microgravity environment.pdf; text_chars=50840"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Eutectic solidification patterns- Interest of microgravity environment",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi": "10.1016/j.crme.2016.10.008",
+      "reference": "Eutectic solidification patterns- Interest of microgravity environment. https://doi.org/10.1016/j.crme.2016.10.008",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Eutectic solidification patterns- Interest of microgravity environment.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "Transparent Alloys",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, Transparent Alloys. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Eutectic solidification patterns- Interest of microgravity environment.pdf; text_chars=50840"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Eutectic solidification patterns- Interest of microgravity environment",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi": "10.1016/j.crme.2016.10.008",
+      "reference": "Eutectic solidification patterns- Interest of microgravity environment. https://doi.org/10.1016/j.crme.2016.10.008",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Eutectic solidification patterns- Interest of microgravity environment.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "Transparent Alloys",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using ISS, Transparent Alloys. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Eutectic solidification patterns- Interest of microgravity environment.pdf; text_chars=50840"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/adma.202313162",
+      "reference": "Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space. https://doi.org/10.1002/adma.202313162",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf"
+    },
+    "alloy": null,
+    "composition": "Zr64V36",
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 87.0,
+        "max": 253.0,
+        "count": 13
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf; text_chars=37782"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/adma.202313162",
+      "reference": "Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space. https://doi.org/10.1002/adma.202313162",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf"
+    },
+    "alloy": null,
+    "composition": "Zr64V36",
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 87.0,
+        "max": 253.0,
+        "count": 13
+      }
+    },
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf; text_chars=37782"
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/adma.202313162",
+      "reference": "Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space. https://doi.org/10.1002/adma.202313162",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf"
+    },
+    "alloy": null,
+    "composition": "Zr64V36",
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 87.0,
+        "max": 253.0,
+        "count": 13
+      }
+    },
+    "review_summary": "This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.10 defects",
+      "Additive manufacturing bridge"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf; text_chars=37782"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS",
+      "authors": [],
+      "year": 1981,
+      "journal": null,
+      "doi": null,
+      "reference": "ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS. Local PDF extraction from ReferencePapers/ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS.pdf"
+    },
+    "alloy": "Succinonitrile model alloy",
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/ISOTHERMAL DENDRITIC GROWTH EXPERIMENT FLIGHT UNIT TESTS.pdf; text_chars=27778"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Immiscible alloys under microgravity conditions",
+      "authors": [],
+      "year": 1988,
+      "journal": null,
+      "doi": null,
+      "reference": "Immiscible alloys under microgravity conditions. Local PDF extraction from ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "cooling_rate_range_K_per_s": {
+        "min": 100.0,
+        "max": 100.0,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf; text_chars=30591"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Immiscible alloys under microgravity conditions",
+      "authors": [],
+      "year": 1988,
+      "journal": null,
+      "doi": null,
+      "reference": "Immiscible alloys under microgravity conditions. Local PDF extraction from ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "cooling_rate_range_K_per_s": {
+        "min": 100.0,
+        "max": 100.0,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Immiscible alloys under microgravity conditions_RATKE.pdf; text_chars=30591"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "In situ experiments in microgravity and phase-field simulations of the lamellar-to-rod transition during eutectic growth",
+      "authors": [],
+      "year": 2023,
+      "journal": null,
+      "doi": "10.5802/crmeca.142",
+      "reference": "In situ experiments in microgravity and phase-field simulations of the lamellar-to-rod transition during eutectic growth. https://doi.org/10.5802/crmeca.142",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/In situ experiments in microgravity and phase-field simulations of the lamellar-to-rod transition during eutectic growth.pdf"
+    },
+    "alloy": "Succinonitrile model alloy",
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {
+      "V_range_um_per_s": {
+        "min": 0.007,
+        "max": 0.04,
+        "count": 6
+      }
+    },
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Succinonitrile model alloy using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Succinonitrile model alloy."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/In situ experiments in microgravity and phase-field simulations of the lamellar-to-rod transition during eutectic growth.pdf; text_chars=41974"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": "10.1016/j.actamat.2021.117401",
+      "reference": "In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity. https://doi.org/10.1016/j.actamat.2021.117401",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity.pdf"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al–\n20 wt.%Cu; Al–20 wt.%Cu; Al–20wt%Cu",
+    "platform": "MASER sounding rocket",
+    "facility": "Bridgman apparatus",
+    "mission": "XRMON",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Cu using MASER sounding rocket, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Cu."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity.pdf; text_chars=69032"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": "10.1016/j.actamat.2021.117401",
+      "reference": "In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity. https://doi.org/10.1016/j.actamat.2021.117401",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity.pdf"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al–\n20 wt.%Cu; Al–20 wt.%Cu; Al–20wt%Cu",
+    "platform": "MASER sounding rocket",
+    "facility": "Bridgman apparatus",
+    "mission": "XRMON",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting Al-Cu using MASER sounding rocket, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in Al-Cu."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/In situ investigation of the Columnar-to-Equiaxed Transition during directional solidification of Al–20wt%Cu alloys on Earth and in microgravity.pdf; text_chars=69032"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Interdendritic fluid flow and macrosegregation; influence of gravity Mehrabian",
+      "authors": [],
+      "year": 1970,
+      "journal": null,
+      "doi": null,
+      "reference": "Interdendritic fluid flow and macrosegregation; influence of gravity Mehrabian. Local PDF extraction from ReferencePapers/Interdendritic fluid flow and macrosegregation; influence of gravity  Mehrabian.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Interdendritic fluid flow and macrosegregation; influence of gravity  Mehrabian.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Interdendritic fluid flow and macrosegregation; influence of gravity  Mehrabian.pdf; text_chars=40382"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Investigating Thermophysical Properties Under Microgravity- A Review",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/adem.202001223",
+      "reference": "Investigating Thermophysical Properties Under Microgravity- A Review. https://doi.org/10.1002/adem.202001223",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Investigating Thermophysical Properties Under Microgravity- A Review.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Investigating Thermophysical Properties Under Microgravity- A Review.pdf; text_chars=75472"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Materials dataset from microgravity levitation experiments on the China Space Station",
+      "authors": [],
+      "year": 2020,
+      "journal": null,
+      "doi": "10.1038/s41597-025-06428-0",
+      "reference": "Materials dataset from microgravity levitation experiments on the China Space Station. https://doi.org/10.1038/s41597-025-06428-0",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Materials dataset from microgravity levitation experiments on the China Space Station.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Materials dataset from microgravity levitation experiments on the China Space Station.pdf; text_chars=42273"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Materials dataset from microgravity levitation experiments on the China Space Station",
+      "authors": [],
+      "year": 2020,
+      "journal": null,
+      "doi": "10.1038/s41597-025-06428-0",
+      "reference": "Materials dataset from microgravity levitation experiments on the China Space Station. https://doi.org/10.1038/s41597-025-06428-0",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Materials dataset from microgravity levitation experiments on the China Space Station.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Materials dataset from microgravity levitation experiments on the China Space Station.pdf; text_chars=42273"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Melt Growth of Semiconductor Crystals Under Microgravity",
+      "authors": [],
+      "year": 2004,
+      "journal": null,
+      "doi": "10.1007/978-981-13-1340-0",
+      "reference": "Melt Growth of Semiconductor Crystals Under Microgravity. https://doi.org/10.1007/978-981-13-1340-0",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Melt Growth of Semiconductor Crystals Under Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Melt Growth of Semiconductor Crystals Under Microgravity.pdf; text_chars=885454"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Melt Growth of Semiconductor Crystals Under Microgravity",
+      "authors": [],
+      "year": 2004,
+      "journal": null,
+      "doi": "10.1007/978-981-13-1340-0",
+      "reference": "Melt Growth of Semiconductor Crystals Under Microgravity. https://doi.org/10.1007/978-981-13-1340-0",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Melt Growth of Semiconductor Crystals Under Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Melt Growth of Semiconductor Crystals Under Microgravity.pdf; text_chars=885454"
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Melt Growth of Semiconductor Crystals Under Microgravity",
+      "authors": [],
+      "year": 2004,
+      "journal": null,
+      "doi": "10.1007/978-981-13-1340-0",
+      "reference": "Melt Growth of Semiconductor Crystals Under Microgravity. https://doi.org/10.1007/978-981-13-1340-0",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Melt Growth of Semiconductor Crystals Under Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.10 defects",
+      "Additive manufacturing bridge"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Melt Growth of Semiconductor Crystals Under Microgravity.pdf; text_chars=885454"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Metastable Liquid Properties and Surface Flow Patterns of Ultrahigh Temperature Alloys Explored In Outer Space",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/anie.202400312",
+      "reference": "Metastable Liquid Properties and Surface Flow Patterns of Ultrahigh Temperature Alloys Explored In Outer Space. https://doi.org/10.1002/anie.202400312",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Metastable Liquid Properties and Surface Flow Patterns of Ultrahigh Temperature Alloys Explored In Outer Space.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 87.0,
+        "max": 437.0,
+        "count": 45
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Metastable Liquid Properties and Surface Flow Patterns of Ultrahigh Temperature Alloys Explored In Outer Space.pdf; text_chars=39953"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00326-8",
+      "reference": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station. https://doi.org/10.1038/s41526-023-00326-8",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station.pdf; text_chars=83453"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00326-8",
+      "reference": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station. https://doi.org/10.1038/s41526-023-00326-8",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station.pdf; text_chars=83453"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00326-8",
+      "reference": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station. https://doi.org/10.1038/s41526-023-00326-8",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station.pdf; text_chars=83453"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00326-8",
+      "reference": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station. https://doi.org/10.1038/s41526-023-00326-8",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf; text_chars=83453"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00326-8",
+      "reference": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station. https://doi.org/10.1038/s41526-023-00326-8",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf; text_chars=83453"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1038/s41526-023-00326-8",
+      "reference": "Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station. https://doi.org/10.1038/s41526-023-00326-8",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "DECLIC-DSI",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting the studied material system using ISS, DECLIC-DSI. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf; text_chars=83453"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Modeling of a space experiment on Bridgman solidification of concentrated semiconductor alloy",
+      "authors": [],
+      "year": 2004,
+      "journal": null,
+      "doi": "10.1016/j.jcrysgro.2004.10.084",
+      "reference": "Modeling of a space experiment on Bridgman solidification of concentrated semiconductor alloy. https://doi.org/10.1016/j.jcrysgro.2004.10.084",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Modeling of a space experiment on Bridgman solidification of concentrated semiconductor alloy.pdf"
+    },
+    "alloy": "GaInSb",
+    "composition": null,
+    "platform": "ISS",
+    "facility": "Bridgman apparatus",
+    "mission": "IDGE",
+    "variables": {
+      "G_range_K_per_cm": {
+        "min": 60.0,
+        "max": 60.0,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting GaInSb using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Modeling of a space experiment on Bridgman solidification of concentrated semiconductor alloy.pdf; text_chars=27565"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Natural convection in directional dendritic solidification of metallic alloys Beckermann",
+      "authors": [],
+      "year": 1985,
+      "journal": null,
+      "doi": null,
+      "reference": "Natural convection in directional dendritic solidification of metallic alloys Beckermann. Local PDF extraction from ReferencePapers/Natural convection in directional dendritic solidification of metallic alloys Beckermann.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Natural convection in directional dendritic solidification of metallic alloys Beckermann.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Natural convection in directional dendritic solidification of metallic alloys Beckermann.pdf; text_chars=45755"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Nucleation and phase-selection in undercooled melts",
+      "authors": [],
+      "year": 2003,
+      "journal": null,
+      "doi": "10.1016/j.msea.2003.10.308",
+      "reference": "Nucleation and phase-selection in undercooled melts. https://doi.org/10.1016/j.msea.2003.10.308",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Nucleation and phase-selection in undercooled melts .pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "cooling_rate_range_K_per_s": {
+        "min": 100.0,
+        "max": 100.0,
+        "count": 2
+      },
+      "undercooling_range_K": {
+        "min": 16.0,
+        "max": 150.0,
+        "count": 33
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Nucleation and phase-selection in undercooled melts .pdf; text_chars=34136"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "On:off directional solidification of near peritectic TRIS-NPG with a planar but tilted solid:liquid interface under microgravity conditions",
+      "authors": [],
+      "year": 2021,
+      "journal": null,
+      "doi": "10.1016/j.scriptamat.2022.114683",
+      "reference": "On:off directional solidification of near peritectic TRIS-NPG with a planar but tilted solid:liquid interface under microgravity conditions. https://doi.org/10.1016/j.scriptamat.2022.114683",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/On:off directional solidification of near peritectic TRIS-NPG with a planar but tilted solid:liquid interface under microgravity conditions.pdf"
+    },
+    "alloy": "Al-Cu",
+    "composition": "Al-4wt.% Cu",
+    "platform": "ISS",
+    "facility": "Bridgman apparatus",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Cu using ISS, Bridgman apparatus. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Cu."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/On:off directional solidification of near peritectic TRIS-NPG with a planar but tilted solid:liquid interface under microgravity conditions.pdf; text_chars=33399"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Outer space cultivated regular eutectic cells with anomalous internal microstructures for rapidly solidifying Zr50V50 hypereutectic alloy",
+      "authors": [],
+      "year": 2022,
+      "journal": null,
+      "doi": "10.1063/5.0245520",
+      "reference": "Outer space cultivated regular eutectic cells with anomalous internal microstructures for rapidly solidifying Zr50V50 hypereutectic alloy. https://doi.org/10.1063/5.0245520",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Outer space cultivated regular eutectic cells with anomalous internal microstructures for rapidly solidifying Zr50V50 hypereutectic alloy.pdf"
+    },
+    "alloy": "Zr-V",
+    "composition": "Zr50V50",
+    "platform": "China Space Station",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 110.0,
+        "max": 160.0,
+        "count": 11
+      }
+    },
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Zr-V using China Space Station, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Zr-V."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Outer space cultivated regular eutectic cells with anomalous internal microstructures for rapidly solidifying Zr50V50 hypereutectic alloy.pdf; text_chars=71073"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity. Local PDF extraction from ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf"
+    },
+    "alloy": "Al-Ni",
+    "composition": "Al - 20 wt% Cu; Al - 20wt% Cu; Al- 6.0wt.%Si; Al-20wt.% Cu",
+    "platform": "ISS",
+    "facility": null,
+    "mission": "XRMON",
+    "variables": {
+      "cooling_rate_range_K_per_s": {
+        "min": 3.0,
+        "max": 3.0,
+        "count": 1
+      },
+      "G_range_K_per_cm": {
+        "min": 150.0,
+        "max": 150.0,
+        "count": 1
+      },
+      "V_range_um_per_s": {
+        "min": 0.1,
+        "max": 270.0,
+        "count": 9
+      }
+    },
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Ni using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Ni."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf; text_chars=44740"
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity. Local PDF extraction from ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf"
+    },
+    "alloy": "Al-Ni",
+    "composition": "Al - 20 wt% Cu; Al - 20wt% Cu; Al- 6.0wt.%Si; Al-20wt.% Cu",
+    "platform": "ISS",
+    "facility": null,
+    "mission": "XRMON",
+    "variables": {
+      "cooling_rate_range_K_per_s": {
+        "min": 3.0,
+        "max": 3.0,
+        "count": 1
+      },
+      "G_range_K_per_cm": {
+        "min": 150.0,
+        "max": 150.0,
+        "count": 1
+      },
+      "V_range_um_per_s": {
+        "min": 0.1,
+        "max": 270.0,
+        "count": 9
+      }
+    },
+    "review_summary": "This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting Al-Ni using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.10 defects",
+      "Additive manufacturing bridge"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Overview of In Situ X-ray Studies of Light Alloy Solidification in Microgravity.pdf; text_chars=44740"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/adem.202000169",
+      "reference": "Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station. https://doi.org/10.1002/adem.202000169",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station.pdf"
+    },
+    "alloy": "Ti-6Al-4V",
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 200.0,
+        "max": 200.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting Ti-6Al-4V using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for Ti-6Al-4V."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station.pdf; text_chars=48017"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1002/adem.202000169",
+      "reference": "Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station. https://doi.org/10.1002/adem.202000169",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station.pdf"
+    },
+    "alloy": "Ti-6Al-4V",
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 200.0,
+        "max": 200.0,
+        "count": 2
+      }
+    },
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting Ti-6Al-4V using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Precise Measurements of Thermophysical Properties of Liquid Ti–6Al–4V (Ti64) Alloy On Board the International Space Station.pdf; text_chars=48017"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Progress in the solidification of monotectic alloys under the microgravity condition of space",
+      "authors": [],
+      "year": 1974,
+      "journal": null,
+      "doi": "10.1360/SSPMA-2019-0176",
+      "reference": "Progress in the solidification of monotectic alloys under the microgravity condition of space. https://doi.org/10.1360/SSPMA-2019-0176",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Progress+in+the+solidification+of+monotectic+alloys+under+the+microgravity+condition+of+space.pdf"
+    },
+    "alloy": "Al-Bi-Sn; Al-Bi; Al-Pb; Al-In; Succinonitrile model alloy",
+    "composition": "Al-1at%Pb; Al-2at%Pb; Al-3at%Pb; Bi-24wt%Cu; Pb-2at%Bi; Pb-3at%Bi",
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi-Sn; Al-Bi; Al-Pb; Al-In; Succinonitrile model alloy using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi-Sn; Al-Bi; Al-Pb; Al-In; Succinonitrile model alloy."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Progress+in+the+solidification+of+monotectic+alloys+under+the+microgravity+condition+of+space.pdf; text_chars=19754"
+  },
+  {
+    "domain": "D9",
+    "citation": {
+      "title": "Properties and Solidification of Metallic Melts under Microgravity",
+      "authors": [],
+      "year": 2009,
+      "journal": null,
+      "doi": "10.1002/chin.201110223",
+      "reference": "Properties and Solidification of Metallic Melts under Microgravity. https://doi.org/10.1002/chin.201110223",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Properties and Solidification of Metallic Melts under Microgravity .pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Processing-Structure-Property & Mechanical Data by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper may support processing-structure-property linkage or mechanical-property gap analysis."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 properties and defects.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted",
+      "mechanical_property_data_needs_manual_confirmation"
+    ],
+    "flemings_alignment": [
+      "Ch.10 properties and defects"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Properties and Solidification of Metallic Melts under Microgravity .pdf; text_chars=411"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1016/j.actamat.2012.08.015",
+      "reference": "Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition. https://doi.org/10.1016/j.actamat.2012.08.015",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition.pdf"
+    },
+    "alloy": "Al-Si",
+    "composition": "Al–\n7 wt.% Si; Al–7 wt.% Si",
+    "platform": "ISS",
+    "facility": "Materials Science Laboratory",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting Al-Si using ISS, Materials Science Laboratory. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for Al-Si."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition.pdf; text_chars=39869"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1016/j.actamat.2012.08.015",
+      "reference": "Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition. https://doi.org/10.1016/j.actamat.2012.08.015",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition.pdf"
+    },
+    "alloy": "Al-Si",
+    "composition": "Al–\n7 wt.% Si; Al–7 wt.% Si",
+    "platform": "ISS",
+    "facility": "Materials Science Laboratory",
+    "mission": "CETSOL",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Al-Si using ISS, Materials Science Laboratory. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Al-Si."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "model",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition.pdf; text_chars=39869"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Solidification of Al-Bi-Sn immiscible alloy under microgravity conditions of space",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": "10.1016/j.scriptamat.2018.12.010",
+      "reference": "Solidification of Al-Bi-Sn immiscible alloy under microgravity conditions of space. https://doi.org/10.1016/j.scriptamat.2018.12.010",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Solidification of Al-Bi-Sn immiscible alloy under microgravity conditions of space.pdf"
+    },
+    "alloy": "Al-Bi-Sn; Al-Bi; Al-In",
+    "composition": "Al-3.6 wt%\nBi; Al-7 wt%Bi",
+    "platform": "Tiangong",
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi-Sn; Al-Bi; Al-In using Tiangong. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi-Sn; Al-Bi; Al-In."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification of Al-Bi-Sn immiscible alloy under microgravity conditions of space.pdf; text_chars=22879"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Solidification of Containerless Undercooled Melts - 2012 - Herlach",
+      "authors": [],
+      "year": 2008,
+      "journal": null,
+      "doi": null,
+      "reference": "Solidification of Containerless Undercooled Melts - 2012 - Herlach. Local PDF extraction from ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf"
+    },
+    "alloy": null,
+    "composition": "Fe67Dy33; Fe67Nd16.5Dy16.5",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 2.0,
+        "max": 261.0,
+        "count": 8
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf; text_chars=1499163"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Solidification of Containerless Undercooled Melts - 2012 - Herlach",
+      "authors": [],
+      "year": 2008,
+      "journal": null,
+      "doi": null,
+      "reference": "Solidification of Containerless Undercooled Melts - 2012 - Herlach. Local PDF extraction from ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf"
+    },
+    "alloy": null,
+    "composition": "Fe67Dy33; Fe67Nd16.5Dy16.5",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 2.0,
+        "max": 261.0,
+        "count": 8
+      }
+    },
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification of Containerless Undercooled Melts - 2012 - Herlach.pdf; text_chars=1499163"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Solidification of Immiscible Alloys- A Review",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi": "10.1007/s40195-016-0523-x",
+      "reference": "Solidification of Immiscible Alloys- A Review. https://doi.org/10.1007/s40195-016-0523-x",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Solidification of Immiscible Alloys- A Review.pdf"
+    },
+    "alloy": "Al-Bi; Al-Pb",
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Al-Bi; Al-Pb. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Al-Bi; Al-Pb."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification of Immiscible Alloys- A Review.pdf; text_chars=105042"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Solidification of Immiscible Alloys- A Review",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi": "10.1007/s40195-016-0523-x",
+      "reference": "Solidification of Immiscible Alloys- A Review. https://doi.org/10.1007/s40195-016-0523-x",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Solidification of Immiscible Alloys- A Review.pdf"
+    },
+    "alloy": "Al-Bi; Al-Pb",
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting Al-Bi; Al-Pb. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "qualitative",
+    "evidence_level": "review",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification of Immiscible Alloys- A Review.pdf; text_chars=105042"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Solidification of Undercooled Melts of Al-Based Alloys on Earth and in Space",
+      "authors": [],
+      "year": 2016,
+      "journal": null,
+      "doi": "10.1007/s11837-017-2402-y",
+      "reference": "Solidification of Undercooled Melts of Al-Based Alloys on Earth and in Space. https://doi.org/10.1007/s11837-017-2402-y",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Solidification of Undercooled Melts of Al-Based Alloys on Earth and in Space.pdf"
+    },
+    "alloy": null,
+    "composition": "Al2O3; Al50Ni50; Al55Ni45; Al60Ni40; Al68.5Ni31.5; Al75Ni25",
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 70.0,
+        "max": 730.0,
+        "count": 22
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification of Undercooled Melts of Al-Based Alloys on Earth and in Space.pdf; text_chars=32765"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Solidification and Crystal Growth on the SJ-10 Recoverable Scientific Experiment Satellite",
+      "authors": [],
+      "year": 1998,
+      "journal": null,
+      "doi": "10.11728/cjss2018.05.836",
+      "reference": "Solidification and Crystal Growth on the SJ-10 Recoverable Scientific Experiment Satellite. https://doi.org/10.11728/cjss2018.05.836",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Solidification+and+Crystal+Growth+on+the+SJ-10+Recoverable+Scientific+Experiment+Satellite.pdf"
+    },
+    "alloy": null,
+    "composition": "Bi0.5Sb1.5Te3; Bi2Te3",
+    "platform": "ISS",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification+and+Crystal+Growth+on+the+SJ-10+Recoverable+Scientific+Experiment+Satellite.pdf; text_chars=13887"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Solidification and Crystal Growth on the SJ-10 Recoverable Scientific Experiment Satellite",
+      "authors": [],
+      "year": 1998,
+      "journal": null,
+      "doi": "10.11728/cjss2018.05.836",
+      "reference": "Solidification and Crystal Growth on the SJ-10 Recoverable Scientific Experiment Satellite. https://doi.org/10.11728/cjss2018.05.836",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Solidification+and+Crystal+Growth+on+the+SJ-10+Recoverable+Scientific+Experiment+Satellite.pdf"
+    },
+    "alloy": null,
+    "composition": "Bi0.5Sb1.5Te3; Bi2Te3",
+    "platform": "ISS",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Solidification+and+Crystal+Growth+on+the+SJ-10+Recoverable+Scientific+Experiment+Satellite.pdf; text_chars=13887"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Space flight data from the Isothermal Dendritic Growth Experiment",
+      "authors": [],
+      "year": 1976,
+      "journal": null,
+      "doi": null,
+      "reference": "Space flight data from the Isothermal Dendritic Growth Experiment. Local PDF extraction from ReferencePapers/Space flight data from the Isothermal Dendritic Growth Experiment .pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Space flight data from the Isothermal Dendritic Growth Experiment .pdf"
+    },
+    "alloy": "Succinonitrile model alloy",
+    "composition": null,
+    "platform": "Space Shuttle",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Space flight data from the Isothermal Dendritic Growth Experiment .pdf; text_chars=14352"
+  },
+  {
+    "domain": "D7",
+    "citation": {
+      "title": "Space Materials Science in China I. Experiment Studies under Microgravity",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": null,
+      "reference": "Space Materials Science in China I. Experiment Studies under Microgravity. Local PDF extraction from ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": "In0.11Ga0",
+    "platform": "SJ-10",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Detached Bridgman and Semiconductor Crystal Quality by documenting the studied material system using SJ-10. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to detached Bridgman growth, semiconductor crystals, or crystal-quality metrics."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.2 directional solidification, Ch.9 interface kinetics.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.2 directional solidification",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf; text_chars=14198"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Space Materials Science in China I. Experiment Studies under Microgravity",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": null,
+      "reference": "Space Materials Science in China I. Experiment Studies under Microgravity. Local PDF extraction from ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": "In0.11Ga0",
+    "platform": "SJ-10",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using SJ-10. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf; text_chars=14198"
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Space Materials Science in China I. Experiment Studies under Microgravity",
+      "authors": [],
+      "year": 2019,
+      "journal": null,
+      "doi": null,
+      "reference": "Space Materials Science in China I. Experiment Studies under Microgravity. Local PDF extraction from ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": "In0.11Ga0",
+    "platform": "SJ-10",
+    "facility": null,
+    "mission": "SJ-10",
+    "variables": {},
+    "review_summary": "This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting the studied material system using SJ-10. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.10 defects",
+      "Additive manufacturing bridge"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Space+Materials+Science+in+China_+I.+Experiment+Studies+under+Microgravity.pdf; text_chars=14198"
+  },
+  {
+    "domain": "D4",
+    "citation": {
+      "title": "Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave",
+      "authors": [],
+      "year": 2008,
+      "journal": null,
+      "doi": "10.1063/5.0203971",
+      "reference": "Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave. https://doi.org/10.1063/5.0203971",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave.pdf"
+    },
+    "alloy": "Zr-V",
+    "composition": "Zr50V50; Zr64V36",
+    "platform": "China Space Station",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 1.0,
+        "max": 253.0,
+        "count": 10
+      }
+    },
+    "review_summary": "This local PDF contributes to Eutectic, Peritectic, Polyphase & Immiscible Systems by documenting Zr-V using China Space Station. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to eutectic, peritectic, monotectic, or immiscible solidification in Zr-V."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.4 eutectic growth, Ch.6 polyphase reactions.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.4 eutectic growth",
+      "Ch.6 polyphase reactions"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave.pdf; text_chars=53374"
+  },
+  {
+    "domain": "D9",
+    "citation": {
+      "title": "Structural evolution and micromechanical properties of ternary Alsingle bondAgsingle bondGe alloy solidified under microgravity condition",
+      "authors": [],
+      "year": 2017,
+      "journal": null,
+      "doi": "10.1016/j.actamat.2017.09.033",
+      "reference": "Structural evolution and micromechanical properties of ternary Alsingle bondAgsingle bondGe alloy solidified under microgravity condition. https://doi.org/10.1016/j.actamat.2017.09.033",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Structural evolution and micromechanical properties of ternary Alsingle bondAgsingle bondGe alloy solidified under microgravity condition.pdf"
+    },
+    "alloy": null,
+    "composition": "Al57Ag12Ge31",
+    "platform": "Space Shuttle",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 23.0,
+        "max": 820.0,
+        "count": 11
+      }
+    },
+    "review_summary": "This local PDF contributes to Processing-Structure-Property & Mechanical Data by documenting the studied material system using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper may support processing-structure-property linkage or mechanical-property gap analysis."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 properties and defects.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "mechanical_property_data_needs_manual_confirmation"
+    ],
+    "flemings_alignment": [
+      "Ch.10 properties and defects"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Structural evolution and micromechanical properties of ternary Alsingle bondAgsingle bondGe alloy solidified under microgravity condition.pdf; text_chars=42131"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity. Local PDF extraction from ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 300.0,
+        "max": 500.0,
+        "count": 5
+      }
+    },
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf; text_chars=27211"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity. Local PDF extraction from ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 300.0,
+        "max": 500.0,
+        "count": 5
+      }
+    },
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf; text_chars=27211"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity",
+      "authors": [],
+      "year": 2000,
+      "journal": null,
+      "doi": null,
+      "reference": "Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity. Local PDF extraction from ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 300.0,
+        "max": 500.0,
+        "count": 5
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Studies of Thermophysical Properties of Metals and Semiconductors by Containerless Processing Under Microgravity.pdf; text_chars=27211"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile",
+      "authors": [],
+      "year": 1976,
+      "journal": null,
+      "doi": null,
+      "reference": "The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile. Local PDF extraction from ReferencePapers/The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile.pdf"
+    },
+    "alloy": "Succinonitrile model alloy",
+    "composition": null,
+    "platform": "Space Shuttle",
+    "facility": null,
+    "mission": "IDGE",
+    "variables": {
+      "undercooling_range_K": {
+        "min": 0.783,
+        "max": 0.783,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting Succinonitrile model alloy using Space Shuttle. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in Succinonitrile model alloy."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile.pdf; text_chars=26365"
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "The Role of Gravity on Macrosegregation in Alloys",
+      "authors": [],
+      "year": 1970,
+      "journal": null,
+      "doi": null,
+      "reference": "The Role of Gravity on Macrosegregation in Alloys. Local PDF extraction from ReferencePapers/The Role of Gravity on Macrosegregation in Alloys.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/The Role of Gravity on Macrosegregation in Alloys.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": null,
+    "facility": null,
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Fluid Flow, Convection, and Macrosegregation by documenting the studied material system. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to gravity-sensitive transport, convection, or macrosegregation in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat and solute conservation",
+      "Ch.7 macrosegregation theory"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/The Role of Gravity on Macrosegregation in Alloys.pdf; text_chars=79954"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Thermophysical Property Measurements of Liquid Metals in Microgravity",
+      "authors": [],
+      "year": 1973,
+      "journal": null,
+      "doi": "10.1063/1.1357942",
+      "reference": "Thermophysical Property Measurements of Liquid Metals in Microgravity. https://doi.org/10.1063/1.1357942",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Thermophysical Property Measurements of Liquid Metals in Microgravity.pdf"
+    },
+    "alloy": null,
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 70.0,
+        "max": 70.0,
+        "count": 1
+      }
+    },
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting the studied material system using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Thermophysical Property Measurements of Liquid Metals in Microgravity.pdf; text_chars=18924"
+  },
+  {
+    "domain": "D6",
+    "citation": {
+      "title": "Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field",
+      "authors": [],
+      "year": 1991,
+      "journal": null,
+      "doi": "10.1016/j.tca.2021.179119",
+      "reference": "Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field. https://doi.org/10.1016/j.tca.2021.179119",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field.pdf"
+    },
+    "alloy": "Co-Cr-Mo",
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Thermophysical Properties, Heat Flow & Plane-Front Solidification by documenting Co-Cr-Mo using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to thermophysical properties, heat flow, plane-front stability, or Bridgman thermal modeling."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.1 heat flow, Ch.2 plane fronts, Ch.8 stability.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Ch.1 heat flow",
+      "Ch.2 plane fronts",
+      "Ch.8 stability"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field.pdf; text_chars=47961"
+  },
+  {
+    "domain": "D1",
+    "citation": {
+      "title": "Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field",
+      "authors": [],
+      "year": 1991,
+      "journal": null,
+      "doi": "10.1016/j.tca.2021.179119",
+      "reference": "Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field. https://doi.org/10.1016/j.tca.2021.179119",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field.pdf"
+    },
+    "alloy": "Co-Cr-Mo",
+    "composition": null,
+    "platform": "ISS",
+    "facility": "ISS-EML",
+    "mission": null,
+    "variables": {},
+    "review_summary": "This local PDF contributes to Alloy Systems & Solidification Processing Routes by documenting Co-Cr-Mo using ISS, ISS-EML. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper helps map alloy systems, platforms, and processing routes for Co-Cr-Mo."
+    ],
+    "theory_alignment": "PDF-derived alignment: Processing routes, Ch.1 heat and solute conservation.",
+    "extraction_status": "qualitative",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "no_numeric_variables_auto_extracted"
+    ],
+    "flemings_alignment": [
+      "Processing routes",
+      "Ch.1 heat and solute conservation"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Thermophysical properties of liquid Co–Cr–Mo alloys measured by electromagnetic levitation in a static magnetic field.pdf; text_chars=47961"
+  },
+  {
+    "domain": "D8",
+    "citation": {
+      "title": "Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment",
+      "authors": [],
+      "year": 2025,
+      "journal": null,
+      "doi": "10.1002/adfm.202415364",
+      "reference": "Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment. https://doi.org/10.1002/adfm.202415364",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment.pdf"
+    },
+    "alloy": "Al-In",
+    "composition": "Ti47.5Ni47.5V5",
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 228.0,
+        "max": 307.0,
+        "count": 9
+      }
+    },
+    "review_summary": "This local PDF contributes to Gas Porosity, Bubble Behaviour & Additive Manufacturing Bridge by documenting Al-In using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to shrinkage, pore, bubble, or defect formation under reduced gravity."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.10 defects, Additive manufacturing bridge.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.10 defects",
+      "Additive manufacturing bridge"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment.pdf; text_chars=49381"
+  },
+  {
+    "domain": "D5",
+    "citation": {
+      "title": "Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment",
+      "authors": [],
+      "year": 2025,
+      "journal": null,
+      "doi": "10.1002/adfm.202415364",
+      "reference": "Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment. https://doi.org/10.1002/adfm.202415364",
+      "source_type": "peer_reviewed",
+      "url": "local:ReferencePapers/Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment.pdf"
+    },
+    "alloy": "Al-In",
+    "composition": "Ti47.5Ni47.5V5",
+    "platform": "ISS",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "undercooling_range_K": {
+        "min": 228.0,
+        "max": 307.0,
+        "count": 9
+      }
+    },
+    "review_summary": "This local PDF contributes to Nucleation, Undercooling, and Interface Kinetics by documenting Al-In using ISS. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to undercooling, nucleation, metastable phase selection, or interface kinetics in Al-In."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.9 nucleation, Ch.9 interface kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction"
+    ],
+    "flemings_alignment": [
+      "Ch.9 nucleation",
+      "Ch.9 interface kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/Wrinkled Shrinkage on Surface Monophasic Structure of Floating Refractory Alloy Droplets Solidified in Space Environment.pdf; text_chars=49381"
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission",
+      "authors": [],
+      "year": 2004,
+      "journal": null,
+      "doi": null,
+      "reference": "X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission. Local PDF extraction from ReferencePapers/X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission_REINHART.pdf.",
+      "source_type": "pdf_extraction",
+      "url": "local:ReferencePapers/X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission_REINHART.pdf"
+    },
+    "alloy": null,
+    "composition": "Al \n- 10 wt% Cu; Al - 10 wt% Cu; Al – 10 wt% Cu; Al – 20 wt% Cu; Al – 4 wt% Cu; Al-\n10wt% Cu",
+    "platform": "ISS",
+    "facility": "XRMON-GF",
+    "mission": "XRMON",
+    "variables": {
+      "G_range_K_per_cm": {
+        "min": 1.0,
+        "max": 400.0,
+        "count": 8
+      },
+      "V_range_um_per_s": {
+        "min": 25.0,
+        "max": 60.0,
+        "count": 3
+      }
+    },
+    "review_summary": "This local PDF contributes to Dendritic and Cellular Solidification by documenting the studied material system using ISS, XRMON-GF. The record is generated from PDF text and should be upgraded after manual extraction of tables and figures.",
+    "key_findings": [
+      "The paper is relevant to dendritic/cellular morphology or CET behavior in the material system."
+    ],
+    "theory_alignment": "PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "experiment",
+    "benchmark_match_type": "none",
+    "gap_flags": [
+      "pdf_generated_record",
+      "requires_manual_table_extraction",
+      "doi_not_found_in_pdf_front_matter"
+    ],
+    "flemings_alignment": [
+      "Ch.3 dendrite spacing",
+      "Ch.5 growth kinetics"
+    ],
+    "notes": "Generated from local PDF: ReferencePapers/X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission_REINHART.pdf; text_chars=24567"
+  }
+]

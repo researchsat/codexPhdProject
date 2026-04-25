@@ -21,6 +21,10 @@ def main() -> None:
     pdf_parser.add_argument("--pdf-dir", type=Path, default=Path("data/pdfs"))
     pdf_parser.add_argument("--output", type=Path, default=Path("output/pdf_extractions.json"))
 
+    records_parser = subparsers.add_parser("build-records-from-pdfs", help="Create schema-valid manual records from a local PDF directory.")
+    records_parser.add_argument("--pdf-dir", type=Path, default=Path("ReferencePapers"))
+    records_parser.add_argument("--output", type=Path, default=Path("data/manual_records/reference_papers_generated.json"))
+
     qa_parser = subparsers.add_parser("qa", help="Read the latest QA report.")
     qa_parser.add_argument("--output-dir", type=Path, default=Path("output"))
 
@@ -39,14 +43,17 @@ def main() -> None:
             encoding="utf-8",
         )
         print(f"Processed {len(extractions)} PDF file(s). Wrote {args.output}.")
+    elif args.command == "build-records-from-pdfs":
+        from .pdf_records import write_records
+
+        count = write_records(args.pdf_dir, args.output)
+        print(f"Generated {count} literature record(s) from PDFs. Wrote {args.output}.")
     elif args.command == "qa":
         path = args.output_dir / "qa_report.json"
         if not path.exists():
             raise SystemExit(f"No QA report found at {path}. Run `ilm-wiki run` first.")
         print(path.read_text(encoding="utf-8"))
     elif args.command == "validate-records":
-        from .agents import OrchestratorAgent
-
         records = OrchestratorAgent(Path("data/pdfs"), args.manual_dir, Path("output"))._load_manual_records(args.manual_dir)
         print(f"Validated {len(records)} non-example manual record(s) from {args.manual_dir}.")
 

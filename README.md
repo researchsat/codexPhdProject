@@ -34,6 +34,16 @@ The PDF agent extracts text, DOI candidates, reference-section snippets, platfor
 
 For better PDF text extraction, install `pypdf` in your environment. If it is unavailable, the agent falls back to the `pdftotext` command when present.
 
+To process the local `ReferencePapers/` archive into schema-valid literature records:
+
+```bash
+python3 -m ilm_wiki.cli process-pdfs --pdf-dir ReferencePapers --output output/reference_pdf_extractions.json
+python3 -m ilm_wiki.cli build-records-from-pdfs --pdf-dir ReferencePapers --output data/manual_records/reference_papers_generated.json
+python3 -m ilm_wiki.cli run --pdf-dir data/pdfs --manual-dir data/manual_records --output-dir output
+```
+
+Use the bundled document Python if your system Python does not have `pypdf`.
+
 ## Manual Records
 
 Use `data/manual_records/example_record.json` as a starting point. Manual records are useful for curated extraction from paywalled papers or human-verified table data.
