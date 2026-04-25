@@ -1,0 +1,31 @@
+[
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Example only - replace with verified paper title",
+      "authors": ["Doe, J."],
+      "year": 2025,
+      "journal": "Manual Curation",
+      "doi": "10.0000/example-do-not-cite",
+      "reference": "Doe, J. (2025). Example only - replace with verified paper title. Manual Curation.",
+      "source_type": "manual"
+    },
+    "alloy": "Example alloy",
+    "composition": null,
+    "platform": "Example platform",
+    "facility": null,
+    "mission": null,
+    "variables": {
+      "G_K_per_m": null,
+      "V_um_per_s": null,
+      "lambda1_um_microgravity": null,
+      "lambda1_um_1g": null
+    },
+    "benchmark_source": null,
+    "benchmark_match_type": "none",
+    "gap_flags": ["example_record_not_for_analysis"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"],
+    "notes": "Delete or replace this example before producing a final literature review."
+  }
+]
+

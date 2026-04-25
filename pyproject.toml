@@ -1,0 +1,13 @@
+[project]
+name = "ilm-wiki"
+version = "0.1.0"
+description = "Microgravity metal alloy solidification literature review agent pipeline."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+ilm-wiki = "ilm_wiki.cli:main"
+
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
