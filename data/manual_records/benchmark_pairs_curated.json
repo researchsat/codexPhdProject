@@ -1,0 +1,231 @@
+[
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys",
+      "authors": ["Zhang, G.", "Luo, X.", "Li, Y.", "Liu, S."],
+      "year": 2024,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-024-00454-9",
+      "reference": "Zhang, G., Luo, X., Li, Y., et al. (2024). Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. npj Microgravity, 10, 114. https://doi.org/10.1038/s41526-024-00454-9",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-024-00454-9"
+    },
+    "alloy": "Al-3.5 wt.% Si",
+    "composition": "Al-3.5 wt.% Si",
+    "platform": "50-m drop tube",
+    "facility": "50-m-high vacuum drop tube",
+    "variables": {
+      "DAS_um_1g": 45.95,
+      "DAS_um_microgravity": 39.49,
+      "eutectic_content_pct_1g": 25.46,
+      "eutectic_content_pct_microgravity": 22.12,
+      "cooling_rate_K_per_s_1g": 88,
+      "cooling_rate_K_per_s_microgravity": 88
+    },
+    "review_summary": "This record extracts benchmark values from Zhang et al. for Al-3.5 wt.% Si directional solidification under matched 1g and drop-tube microgravity conditions.",
+    "key_findings": [
+      "Average DAS decreased from 45.95 um in 1g to 39.49 um in microgravity.",
+      "Average eutectic content decreased from 25.46% in 1g to 22.12% in microgravity.",
+      "The paper reports matched thermal histories and an approximate cooling rate of 88 K/s for this alloy."
+    ],
+    "theory_alignment": "The comparison links gravity-dependent thermal/solute flow to dendritic scale and eutectic fraction.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["curated_benchmark_pair", "DAS_is_random_line_intercept_not_PDAS_or_SDAS"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys",
+      "authors": ["Zhang, G.", "Luo, X.", "Li, Y.", "Liu, S."],
+      "year": 2024,
+      "journal": "npj Microgravity",
+      "doi": "10.1038/s41526-024-00454-9",
+      "reference": "Zhang, G., Luo, X., Li, Y., et al. (2024). Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. npj Microgravity, 10, 114. https://doi.org/10.1038/s41526-024-00454-9",
+      "source_type": "peer_reviewed",
+      "url": "https://www.nature.com/articles/s41526-024-00454-9"
+    },
+    "alloy": "Al-10 wt.% Cu",
+    "composition": "Al-10 wt.% Cu",
+    "platform": "50-m drop tube",
+    "facility": "50-m-high vacuum drop tube",
+    "variables": {
+      "DAS_um_1g": 39.33,
+      "DAS_um_microgravity": 35.82,
+      "eutectic_content_pct_1g": 51.27,
+      "eutectic_content_pct_microgravity": 43.73,
+      "grain_size_upper_radius_um_1g": 177.5,
+      "grain_size_upper_radius_um_microgravity": 90.9,
+      "grain_size_lower_radius_um_1g": 116.25,
+      "grain_size_lower_radius_um_microgravity": 88.53,
+      "grain_number_density_upper_mm2_1g": 6.35,
+      "grain_number_density_upper_mm2_microgravity": 7.96,
+      "grain_number_density_lower_mm2_1g": 23.55,
+      "grain_number_density_lower_mm2_microgravity": 40.61,
+      "cooling_rate_K_per_s_1g": 85,
+      "cooling_rate_K_per_s_microgravity": 85
+    },
+    "review_summary": "This record extracts benchmark DAS, eutectic-content, and grain-size values for Al-10 wt.% Cu from matched 1g and microgravity samples.",
+    "key_findings": [
+      "Average DAS decreased from 39.33 um in 1g to 35.82 um in microgravity.",
+      "Average eutectic content decreased from 51.27% in 1g to 43.73% in microgravity.",
+      "Microgravity samples had smaller average grain radii and higher grain number density in both upper and lower statistical regions."
+    ],
+    "theory_alignment": "The Al-Cu benchmark captures how buoyancy of equiaxed grains and Cu-rich melt redistribution influence grain size, DAS, and eutectic content.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["curated_benchmark_pair", "DAS_is_random_line_intercept_not_PDAS_or_SDAS"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth",
+      "authors": ["Williams, T. J.", "Beckermann, C."],
+      "year": 2023,
+      "journal": "Metallurgical and Materials Transactions A",
+      "doi": "10.1007/s11661-022-06909-6",
+      "reference": "Williams, T. J., & Beckermann, C. (2023). Benchmark Al-Cu solidification experiments in microgravity and on Earth. Metallurgical and Materials Transactions A, 54, 405-423. https://doi.org/10.1007/s11661-022-06909-6",
+      "source_type": "peer_reviewed",
+      "url": "https://link.springer.com/article/10.1007/s11661-022-06909-6"
+    },
+    "alloy": "Al-4 wt.% Cu",
+    "composition": "Al-4 wt.% Cu",
+    "platform": "ISS",
+    "facility": "Materials Science Laboratory",
+    "variables": {
+      "CET_location_cm_1g": 3.3,
+      "CET_location_cm_microgravity": "absent",
+      "grain_structure_1g": "columnar-dominated region from 0 to approximately 3.3 cm, followed by fully equiaxed region",
+      "grain_structure_microgravity": "fully equiaxed",
+      "solid_transport_1g": "grain sedimentation evidence",
+      "solid_transport_microgravity": "no gravity-driven sedimentation"
+    },
+    "review_summary": "Williams and Beckermann provide a direct ISS-vs-Earth Al-Cu benchmark. For Al-4 wt.% Cu, terrestrial solidification produced a progressive CET while the microgravity sample remained fully equiaxed.",
+    "key_findings": [
+      "The Al-4 wt.% Cu 1g sample had a columnar-dominated region from 0 to about 3.3 cm.",
+      "The Al-4 wt.% Cu microgravity sample was fully equiaxed.",
+      "The 1g sample showed evidence of grain sedimentation."
+    ],
+    "theory_alignment": "This comparison tests gravity-driven solid transport and melt convection effects on CET formation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["curated_benchmark_pair", "CET_location_microgravity_absent_categorical"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth",
+      "authors": ["Williams, T. J.", "Beckermann, C."],
+      "year": 2023,
+      "journal": "Metallurgical and Materials Transactions A",
+      "doi": "10.1007/s11661-022-06909-6",
+      "reference": "Williams, T. J., & Beckermann, C. (2023). Benchmark Al-Cu solidification experiments in microgravity and on Earth. Metallurgical and Materials Transactions A, 54, 405-423. https://doi.org/10.1007/s11661-022-06909-6",
+      "source_type": "peer_reviewed",
+      "url": "https://link.springer.com/article/10.1007/s11661-022-06909-6"
+    },
+    "alloy": "Al-10 wt.% Cu",
+    "composition": "Al-10 wt.% Cu",
+    "platform": "ISS",
+    "facility": "Materials Science Laboratory",
+    "variables": {
+      "CET_location_cm_1g": 2.8,
+      "CET_location_cm_microgravity": "absent",
+      "grain_structure_1g": "columnar-dominated region from 0 to approximately 2.8 cm, followed by fully equiaxed region",
+      "grain_structure_microgravity": "fully equiaxed",
+      "solid_transport_1g": "no clear sedimentation or flotation effect",
+      "solid_transport_microgravity": "no gravity-driven solid transport"
+    },
+    "review_summary": "For Al-10 wt.% Cu, Williams and Beckermann report a 1g CET near 2.8 cm and a fully equiaxed microgravity sample.",
+    "key_findings": [
+      "The Al-10 wt.% Cu 1g sample had a CET at approximately 2.8 cm.",
+      "The Al-10 wt.% Cu microgravity sample was fully equiaxed.",
+      "The Al-10 wt.% Cu 1g sample did not show clear grain sedimentation or flotation."
+    ],
+    "theory_alignment": "This neutrally buoyant Al-Cu case helps isolate convection-driven CET effects from strong solid sedimentation or flotation.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["curated_benchmark_pair", "CET_location_microgravity_absent_categorical"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D3",
+    "citation": {
+      "title": "Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth",
+      "authors": ["Williams, T. J.", "Beckermann, C."],
+      "year": 2023,
+      "journal": "Metallurgical and Materials Transactions A",
+      "doi": "10.1007/s11661-022-06909-6",
+      "reference": "Williams, T. J., & Beckermann, C. (2023). Benchmark Al-Cu solidification experiments in microgravity and on Earth. Metallurgical and Materials Transactions A, 54, 405-423. https://doi.org/10.1007/s11661-022-06909-6",
+      "source_type": "peer_reviewed",
+      "url": "https://link.springer.com/article/10.1007/s11661-022-06909-6"
+    },
+    "alloy": "Al-18 wt.% Cu",
+    "composition": "Al-18 wt.% Cu",
+    "platform": "ISS",
+    "facility": "Materials Science Laboratory",
+    "variables": {
+      "CET_location_cm_1g": 1.1,
+      "CET_location_cm_microgravity": "absent",
+      "grain_structure_1g": "large columnar and elongated equiaxed grains near the bottom from 0 to approximately 1.1 cm, followed by equiaxed region",
+      "grain_structure_microgravity": "fully equiaxed",
+      "solid_transport_1g": "grain flotation evidence",
+      "solid_transport_microgravity": "no gravity-driven flotation"
+    },
+    "review_summary": "For Al-18 wt.% Cu, Williams and Beckermann report a 1g CET near 1.1 cm and evidence of grain flotation, while the microgravity sample was fully equiaxed.",
+    "key_findings": [
+      "The Al-18 wt.% Cu 1g sample had a CET at approximately 1.1 cm.",
+      "The Al-18 wt.% Cu microgravity sample was fully equiaxed.",
+      "The 1g sample showed evidence of grain flotation."
+    ],
+    "theory_alignment": "This high-Cu benchmark tests the sign reversal of primary-solid buoyancy and its effect on grain transport.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["curated_benchmark_pair", "CET_location_microgravity_absent_categorical"],
+    "flemings_alignment": ["Ch.3 dendrite spacing", "Ch.5 growth kinetics"]
+  },
+  {
+    "domain": "D2",
+    "citation": {
+      "title": "Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation",
+      "authors": ["Bergeon, N.", "Reinhart, G.", "Mota, F. L.", "Mangelinck-Noel, N.", "Nguyen-Thi, H."],
+      "year": 2021,
+      "journal": "The European Physical Journal E",
+      "doi": "10.1140/epje/s10189-021-00102-0",
+      "reference": "Bergeon, N., Reinhart, G., Mota, F. L., Mangelinck-Noel, N., & Nguyen-Thi, H. (2021). Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation. European Physical Journal E. https://doi.org/10.1140/epje/s10189-021-00102-0",
+      "source_type": "peer_reviewed",
+      "url": "https://doi.org/10.1140/epje/s10189-021-00102-0"
+    },
+    "alloy": "Al-20 wt.% Cu",
+    "composition": "Al-20 wt.% Cu",
+    "platform": "ISS / Earth in situ X-radiography",
+    "facility": "XRMON / directional solidification furnace",
+    "variables": {
+      "G_K_per_mm_1g": 15,
+      "G_K_per_mm_microgravity": 15,
+      "cooling_rate_K_per_s_1g": 0.15,
+      "cooling_rate_K_per_s_microgravity": 0.15,
+      "mushy_zone_permeability_relative_1g": "about 2x microgravity",
+      "mushy_zone_permeability_relative_microgravity": "baseline"
+    },
+    "review_summary": "Bergeon et al. compare Earth and microgravity observations under matched Al-20 wt.% Cu solidification conditions and report gravity-sensitive mushy-zone behavior.",
+    "key_findings": [
+      "The compared Al-20 wt.% Cu experiments used a reported temperature gradient of 15 K/mm and cooling rate of 0.15 K/s.",
+      "The paper reports that mushy-zone permeability can be about two times larger for the 1g experiment than for the microgravity experiment."
+    ],
+    "theory_alignment": "This benchmark maps directly to Flemings macrosegregation theory through mushy-zone permeability, dendrite fragmentation, and buoyancy-driven liquid/solid transport.",
+    "extraction_status": "quantitative_partial",
+    "evidence_level": "benchmark",
+    "benchmark_match_type": "intra_study",
+    "gap_flags": ["curated_benchmark_pair", "permeability_ratio_extracted_from_text_not_table"],
+    "flemings_alignment": ["Ch.1 heat and solute conservation", "Ch.7 macrosegregation theory"]
+  }
+]

@@ -2,6 +2,11 @@
 
 | Alloy System | G_K_per_m | V_um_per_s | lambda1_um_microgravity | lambda1_um_1g | porosity_fraction_pct | UTS_MPa | yield_strength_MPa | hardness | thermal_conductivity_W_mK |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Al-10 wt.% Cu | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| Al-18 wt.% Cu | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| Al-20 wt.% Cu | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| Al-3.5 wt.% Si | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| Al-4 wt.% Cu | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | Al-Bi-Sn | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | Al-Bi-Sn; Al-Bi; Al-In | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | Al-Bi-Sn; Al-Bi; Al-Pb; Al-In | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |

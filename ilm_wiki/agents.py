@@ -411,7 +411,12 @@ class ReportAgent:
         return findings
 
     def _benchmarks(self) -> str:
-        lines = ["# 1g vs Microgravity Benchmark Table", ""]
+        lines = [
+            "# 1g vs Microgravity Benchmark Table",
+            "",
+            "Rows are included only when both a 1g and a microgravity value are present in the structured records. Numeric rows report percent difference as `(microgravity - 1g) / 1g * 100`; categorical rows leave percent difference blank.",
+            "",
+        ]
         rows = self.output.benchmark_pairs
         if not rows:
             lines.append("No benchmark pairs with both 1g and microgravity values have been ingested yet.")
@@ -422,8 +427,39 @@ class ReportAgent:
             by_domain[row["domain"]].append(row)
         for domain, domain_rows in sorted(by_domain.items()):
             lines.extend([f"## {domain}. {DOMAINS[domain].title}", ""])
-            lines.extend(self._table(sorted(domain_rows, key=lambda item: str(item.get("alloy"))), ["variable", "alloy", "value_1g", "value_microgravity", "percent_difference", "platform", "reference", "benchmark_match_type"]))
+            pretty_rows = [self._benchmark_display_row(row) for row in sorted(domain_rows, key=lambda item: (str(item.get("alloy")), str(item.get("variable"))))]
+            lines.extend(self._table(pretty_rows, ["Variable", "Alloy", "1g Value", "Microgravity Value", "% Difference", "Platform", "Reference", "Match Type"]))
         return "\n".join(lines)
+
+    def _benchmark_display_row(self, row: dict[str, Any]) -> dict[str, Any]:
+        pct = row.get("percent_difference")
+        return {
+            "Variable": self._variable_label(str(row.get("variable") or "")),
+            "Alloy": row.get("alloy"),
+            "1g Value": row.get("value_1g"),
+            "Microgravity Value": row.get("value_microgravity"),
+            "% Difference": f"{pct:.1f}%" if isinstance(pct, float) else "",
+            "Platform": row.get("platform"),
+            "Reference": row.get("reference"),
+            "Match Type": row.get("benchmark_match_type"),
+        }
+
+    def _variable_label(self, variable: str) -> str:
+        replacements = {
+            "DAS_um": "DAS (um)",
+            "eutectic_content_pct": "Eutectic content (%)",
+            "cooling_rate_K_per_s": "Cooling rate (K/s)",
+            "grain_size_upper_radius_um": "Upper grain radius (um)",
+            "grain_size_lower_radius_um": "Lower grain radius (um)",
+            "grain_number_density_upper_mm2": "Upper grain density (mm^-2)",
+            "grain_number_density_lower_mm2": "Lower grain density (mm^-2)",
+            "CET_location_cm": "CET location (cm)",
+            "grain_structure": "Grain structure",
+            "solid_transport": "Solid transport",
+            "G_K_per_mm": "Thermal gradient G (K/mm)",
+            "mushy_zone_permeability_relative": "Relative mushy-zone permeability",
+        }
+        return replacements.get(variable, variable.replace("_", " "))
 
     def _variable_groups(self) -> str:
         lines = ["# Consolidated Variable Groups", ""]

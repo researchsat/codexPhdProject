@@ -77,10 +77,12 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
 
-The local ReferencePapers ingest adds 12 PDF-derived record(s) to this domain across Drop tube / drop shaft, Ground-based microgravity analogue, ISS, MASER sounding rocket and material systems including Al-Cu, Al-Cu; Al-Si. For flow and macrosegregation, this paper is important because it treats gravity effects as solute-dependent rather than as a simple on/off convection switch.
+The local ReferencePapers ingest adds 12 PDF-derived record(s) to this domain across Drop tube / drop shaft, Ground-based microgravity analogue, ISS, MASER sounding rocket and material systems including Al-Cu, Al-Cu; Al-Si. Bergeon et al. compare Earth and microgravity observations under matched Al-20 wt.% Cu solidification conditions and report gravity-sensitive mushy-zone behavior. For flow and macrosegregation, this paper is important because it treats gravity effects as solute-dependent rather than as a simple on/off convection switch.
 
 ### Key Findings
 
+- The compared Al-20 wt.% Cu experiments used a reported temperature gradient of 15 K/mm and cooling rate of 0.15 K/s. (10.1140/epje/s10189-021-00102-0)
+- The paper reports that mushy-zone permeability can be about two times larger for the 1g experiment than for the microgravity experiment. (10.1140/epje/s10189-021-00102-0)
 - Thermosolutal convection arises from temperature and concentration gradients in the melt under ground gravity. (10.1038/s41526-024-00454-9)
 - Gravity effects differed between Al-Si and Al-Cu because Si and Cu have different density and redistribution behavior in aluminum. (10.1038/s41526-024-00454-9)
 
@@ -88,6 +90,7 @@ The table below lists traceable records currently ingested for this domain. The 
 
 | alloy | platform | facility | status | evidence | variables | citation | gaps |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Al-20 wt.% Cu | ISS / Earth in situ X-radiography | XRMON / directional solidification furnace | quantitative_partial | benchmark | G_K_per_mm_1g=15; G_K_per_mm_microgravity=15; cooling_rate_K_per_s_1g=0.15; cooling_rate_K_per_s_microgravity=0.15; mushy_zone_permeability_relative_1g=about 2x microgravity; mushy_zone_permeability_relative_microgravity=baseline | 10.1140/epje/s10189-021-00102-0 | curated_benchmark_pair; permeability_ratio_extracted_from_text_not_table; missing_target_fields:segregation_coefficient_k,macrosegregation_index,convection_velocity_m_per_s,Ma,Ra,Gr |
 |  | ISS | Bridgman apparatus | quantitative_partial | experiment | G_range_K_per_cm={'min': 30.0, 'max': 30.0, 'count': 1}; V_range_um_per_s={'min': 30.0, 'max': 30.0, 'count': 1} | 10.1140/epje/s10189-021-00102-0 | pdf_generated_record; requires_manual_table_extraction; missing_target_fields:segregation_coefficient_k,macrosegregation_index,convection_velocity_m_per_s,Ma,Ra,Gr |
 | Al-Cu; Al-Si | Drop tube / drop shaft |  | qualitative | experiment |  | 10.1038/s41526-024-00454-9 | pdf_generated_record; requires_manual_table_extraction; no_numeric_variables_auto_extracted; missing_target_fields:segregation_coefficient_k,macrosegregation_index,convection_velocity_m_per_s,Ma,Ra,Gr |
 |  |  |  | qualitative | experiment |  | Conservation of mass and momentum for the flow of interdendritic liquid during solidification. Local PDF extraction from ReferencePapers/Conservation of mass and momentum for the flow of interdendritic liquid during solidification_Ganesan.pdf. | pdf_generated_record; requires_manual_table_extraction; doi_not_found_in_pdf_front_matter; no_numeric_variables_auto_extracted; missing_target_fields:segregation_coefficient_k,macrosegregation_index,convection_velocity_m_per_s,Ma,Ra,Gr |
@@ -104,12 +107,14 @@ The table below lists traceable records currently ingested for this domain. The 
 
 ### Theory Alignment
 
+- This benchmark maps directly to Flemings macrosegregation theory through mushy-zone permeability, dendrite fragmentation, and buoyancy-driven liquid/solid transport.
 - PDF-derived alignment: Ch.1 heat and solute conservation, Ch.7 macrosegregation theory.
 - Supports Flemings Ch.7 macrosegregation framing: convection changes solute transport, but the direction of the effect depends on alloy thermodynamics and density contrast.
 
 ### Citations
 
 - Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation. https://doi.org/10.1140/epje/s10189-021-00102-0
+- Bergeon, N., Reinhart, G., Mota, F. L., Mangelinck-Noel, N., & Nguyen-Thi, H. (2021). Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation. European Physical Journal E. https://doi.org/10.1140/epje/s10189-021-00102-0
 - Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. https://doi.org/10.1038/s41526-024-00454-9
 - Conservation of mass and momentum for the flow of interdendritic liquid during solidification. Local PDF extraction from ReferencePapers/Conservation of mass and momentum for the flow of interdendritic liquid during solidification_Ganesan.pdf.
 - Convection Effects During Bulk Transparent Alloy Solidification in DECLIC-DSI and Phase-Field Simulations in Diffusive Conditions. https://doi.org/10.1007/s11837-017-2395-6
@@ -127,10 +132,25 @@ The table below lists traceable records currently ingested for this domain. The 
 
 Flemings alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
 
-The local ReferencePapers ingest adds 18 PDF-derived record(s) to this domain across Ground-based microgravity analogue, ISS, MASER sounding rocket, Space Shuttle and material systems including Al-Cu, Al-Ni, Al-Si, Succinonitrile model alloy. The Glicksman microgravity dendrite experiment remains a foundational benchmark for diffusion-controlled dendritic growth because it measured tip velocity without normal buoyancy-driven convection. This paper converts ISS dendrite observations into a validation case for numerical models, making it useful for the wiki's benchmark and model-validation thread. The ISS CETSOL Al-Cu experiments are direct metallic benchmarks for columnar and equiaxed dendritic growth under diffusive conditions.
+The local ReferencePapers ingest adds 18 PDF-derived record(s) to this domain across Ground-based microgravity analogue, ISS, MASER sounding rocket, Space Shuttle and material systems including Al-Cu, Al-Ni, Al-Si, Succinonitrile model alloy. This record extracts benchmark values from Zhang et al. for Al-3.5 wt.% Si directional solidification under matched 1g and drop-tube microgravity conditions. This record extracts benchmark DAS, eutectic-content, and grain-size values for Al-10 wt.% Cu from matched 1g and microgravity samples. Williams and Beckermann provide a direct ISS-vs-Earth Al-Cu benchmark. For Al-4 wt.% Cu, terrestrial solidification produced a progressive CET while the microgravity sample remained fully equiaxed.
 
 ### Key Findings
 
+- Average DAS decreased from 45.95 um in 1g to 39.49 um in microgravity. (10.1038/s41526-024-00454-9)
+- Average eutectic content decreased from 25.46% in 1g to 22.12% in microgravity. (10.1038/s41526-024-00454-9)
+- The paper reports matched thermal histories and an approximate cooling rate of 88 K/s for this alloy. (10.1038/s41526-024-00454-9)
+- Average DAS decreased from 39.33 um in 1g to 35.82 um in microgravity. (10.1038/s41526-024-00454-9)
+- Average eutectic content decreased from 51.27% in 1g to 43.73% in microgravity. (10.1038/s41526-024-00454-9)
+- Microgravity samples had smaller average grain radii and higher grain number density in both upper and lower statistical regions. (10.1038/s41526-024-00454-9)
+- The Al-4 wt.% Cu 1g sample had a columnar-dominated region from 0 to about 3.3 cm. (10.1007/s11661-022-06909-6)
+- The Al-4 wt.% Cu microgravity sample was fully equiaxed. (10.1007/s11661-022-06909-6)
+- The 1g sample showed evidence of grain sedimentation. (10.1007/s11661-022-06909-6)
+- The Al-10 wt.% Cu 1g sample had a CET at approximately 2.8 cm. (10.1007/s11661-022-06909-6)
+- The Al-10 wt.% Cu microgravity sample was fully equiaxed. (10.1007/s11661-022-06909-6)
+- The Al-10 wt.% Cu 1g sample did not show clear grain sedimentation or flotation. (10.1007/s11661-022-06909-6)
+- The Al-18 wt.% Cu 1g sample had a CET at approximately 1.1 cm. (10.1007/s11661-022-06909-6)
+- The Al-18 wt.% Cu microgravity sample was fully equiaxed. (10.1007/s11661-022-06909-6)
+- The 1g sample showed evidence of grain flotation. (10.1007/s11661-022-06909-6)
 - Microgravity dendrite velocity data agreed with Ivantsov-type diffusion analysis over the reported undercooling range. (10.1103/PhysRevLett.73.573)
 - Ground convection can perturb dendrite kinetics even at modest undercooling. (10.1103/PhysRevLett.73.573)
 - ISS microgravity remelting and directional solidification produced constrained diffusive dendritic growth. (10.1016/j.actaastro.2020.05.059)
@@ -142,6 +162,11 @@ The table below lists traceable records currently ingested for this domain. The 
 
 | alloy | platform | facility | status | evidence | variables | citation | gaps |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Al-3.5 wt.% Si | 50-m drop tube | 50-m-high vacuum drop tube | quantitative_partial | benchmark | DAS_um_1g=45.95; DAS_um_microgravity=39.49; eutectic_content_pct_1g=25.46; eutectic_content_pct_microgravity=22.12; cooling_rate_K_per_s_1g=88; cooling_rate_K_per_s_microgravity=88 | 10.1038/s41526-024-00454-9 | curated_benchmark_pair; DAS_is_random_line_intercept_not_PDAS_or_SDAS; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
+| Al-10 wt.% Cu | 50-m drop tube | 50-m-high vacuum drop tube | quantitative_partial | benchmark | DAS_um_1g=39.33; DAS_um_microgravity=35.82; eutectic_content_pct_1g=51.27; eutectic_content_pct_microgravity=43.73; grain_size_upper_radius_um_1g=177.5; grain_size_upper_radius_um_microgravity=90.9; grain_size_lower_radius_um_1g=116.25; grain_size_lower_radius_um_microgravity=88.53; grain_number_density_upper_mm2_1g=6.35; grain_number_density_upper_mm2_microgravity=7.96; grain_number_density_lower_mm2_1g=23.55; grain_number_density_lower_mm2_microgravity=40.61; cooling_rate_K_per_s_1g=85; cooling_rate_K_per_s_microgravity=85 | 10.1038/s41526-024-00454-9 | curated_benchmark_pair; DAS_is_random_line_intercept_not_PDAS_or_SDAS; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
+| Al-4 wt.% Cu | ISS | Materials Science Laboratory | quantitative_partial | benchmark | CET_location_cm_1g=3.3; CET_location_cm_microgravity=absent; grain_structure_1g=columnar-dominated region from 0 to approximately 3.3 cm, followed by fully equiaxed region; grain_structure_microgravity=fully equiaxed; solid_transport_1g=grain sedimentation evidence; solid_transport_microgravity=no gravity-driven sedimentation | 10.1007/s11661-022-06909-6 | curated_benchmark_pair; CET_location_microgravity_absent_categorical; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
+| Al-10 wt.% Cu | ISS | Materials Science Laboratory | quantitative_partial | benchmark | CET_location_cm_1g=2.8; CET_location_cm_microgravity=absent; grain_structure_1g=columnar-dominated region from 0 to approximately 2.8 cm, followed by fully equiaxed region; grain_structure_microgravity=fully equiaxed; solid_transport_1g=no clear sedimentation or flotation effect; solid_transport_microgravity=no gravity-driven solid transport | 10.1007/s11661-022-06909-6 | curated_benchmark_pair; CET_location_microgravity_absent_categorical; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
+| Al-18 wt.% Cu | ISS | Materials Science Laboratory | quantitative_partial | benchmark | CET_location_cm_1g=1.1; CET_location_cm_microgravity=absent; grain_structure_1g=large columnar and elongated equiaxed grains near the bottom from 0 to approximately 1.1 cm, followed by equiaxed region; grain_structure_microgravity=fully equiaxed; solid_transport_1g=grain flotation evidence; solid_transport_microgravity=no gravity-driven flotation | 10.1007/s11661-022-06909-6 | curated_benchmark_pair; CET_location_microgravity_absent_categorical; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
 |  | ISS | Bridgman apparatus | qualitative | benchmark |  | 10.1007/s11661-022-06909-6 | pdf_generated_record; requires_manual_table_extraction; no_numeric_variables_auto_extracted; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
 |  | ISS |  | quantitative_partial | benchmark | G_range_K_per_cm={'min': 12.0, 'max': 19.0, 'count': 2}; V_range_um_per_s={'min': 3.0, 'max': 12.0, 'count': 2} | 10.1016/j.actamat.2025.120954 | pdf_generated_record; requires_manual_table_extraction; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
 | Al-Si | ISS |  | qualitative | experiment |  | 10.1016/j.jcrysgro.2019.02.050 | pdf_generated_record; requires_manual_table_extraction; no_numeric_variables_auto_extracted; missing_target_fields:lambda1_um,lambda2_um,dendrite_tip_radius_um,dendrite_tip_velocity_um_per_s,undercooling_K |
@@ -166,6 +191,11 @@ The table below lists traceable records currently ingested for this domain. The 
 
 ### Theory Alignment
 
+- The comparison links gravity-dependent thermal/solute flow to dendritic scale and eutectic fraction.
+- The Al-Cu benchmark captures how buoyancy of equiaxed grains and Cu-rich melt redistribution influence grain size, DAS, and eutectic content.
+- This comparison tests gravity-driven solid transport and melt convection effects on CET formation.
+- This neutrally buoyant Al-Cu case helps isolate convection-driven CET effects from strong solid sedimentation or flotation.
+- This high-Cu benchmark tests the sign reversal of primary-solid buoyancy and its effect on grain transport.
 - PDF-derived alignment: Ch.3 dendrite spacing, Ch.5 growth kinetics.
 - Anchors Flemings growth-kinetics discussion in the Ivantsov diffusion solution and dendrite tip selection.
 - Connects Flemings dendrite-growth theory to modern phase-field and cellular-automata validation.
@@ -192,7 +222,9 @@ The table below lists traceable records currently ingested for this domain. The 
 - Simulation of international space station microgravity directional solidification experiments on columnar-to-equiaxed transition. https://doi.org/10.1016/j.actamat.2012.08.015
 - Space flight data from the Isothermal Dendritic Growth Experiment. Local PDF extraction from ReferencePapers/Space flight data from the Isothermal Dendritic Growth Experiment .pdf.
 - The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile. Local PDF extraction from ReferencePapers/The Impurity Effect in the Space Shuttle Dendritic Growth Experiments with Succinonitrile.pdf.
+- Williams, T. J., & Beckermann, C. (2023). Benchmark Al-Cu solidification experiments in microgravity and on Earth. Metallurgical and Materials Transactions A, 54, 405-423. https://doi.org/10.1007/s11661-022-06909-6
 - X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission. Local PDF extraction from ReferencePapers/X-Ray Radiographic Observation of Directional Solidification Under Microgravity- XRMON-GF Experiments on MASER12 Sounding Rocket Mission_REINHART.pdf.
+- Zhang, G., Luo, X., Li, Y., et al. (2024). Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys. npj Microgravity, 10, 114. https://doi.org/10.1038/s41526-024-00454-9
 
 ## D4. Eutectic, Peritectic, Polyphase & Immiscible Systems
 
