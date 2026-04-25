@@ -46,6 +46,11 @@ ilm-wiki validate-records --manual-dir data/manual_records
 
 The seeded corpus in `data/manual_records/seed_literature.json` gives the first traceable literature-review layer across D1-D9. It intentionally marks many entries as `qualitative` or `quantitative_partial` until paper tables and figures are manually extracted.
 
+For collection work, use:
+
+- `docs/literature_collection_guide.md` for the domain-by-domain collection protocol.
+- `templates/literature_extraction_template.csv` for spreadsheet-style extraction before conversion to JSON.
+
 ## Deployment
 
 Local CLI:
